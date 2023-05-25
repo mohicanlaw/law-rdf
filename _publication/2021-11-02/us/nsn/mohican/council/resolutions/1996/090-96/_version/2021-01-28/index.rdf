@@ -7,10 +7,10 @@
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">Resolution No. 090-96 — Road Safety</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
-    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+  <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
     <rdfs:label xml:lang="en">[2021-11-02/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 090-96</rdfs:label>
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1996-11-05</oll:dateAdopted>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2021-11-02"/>
-  <oll:number>090-96</oll:number>
+    <oll:number>090-96</oll:number>
     </rdf:Description>
 </rdf:RDF>
