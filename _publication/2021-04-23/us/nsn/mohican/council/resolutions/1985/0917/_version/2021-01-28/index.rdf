@@ -7,9 +7,10 @@
     <dcterms:title xml:lang="en">Resolution No. 0917 — Procedures</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
-    <rdfs:label xml:lang="en">[2021-04-23/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 0917</rdfs:label>
+  <rdfs:label xml:lang="en">[2021-04-23/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 0917</rdfs:label>
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1985-02-08</oll:dateAdopted>
+    <oll:history>Amended Procedures Ordinance by revising hearing format.</oll:history>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2021-04-23"/>
-  <oll:number>0917</oll:number>
+    <oll:number>0917</oll:number>
     </rdf:Description>
 </rdf:RDF>

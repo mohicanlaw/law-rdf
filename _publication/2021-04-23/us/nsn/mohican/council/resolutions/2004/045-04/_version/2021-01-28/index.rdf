@@ -10,6 +10,7 @@
     <rdfs:label xml:lang="en">[2021-04-23/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 045-04</rdfs:label>
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2004-09-07</oll:dateAdopted>
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2004-11-08</oll:dateEffective>
+    <oll:history>Sections 44.7 (C) and (D), establishing process for denial of membership; 44.9, Sovereign Immunity; and 44.10, Severability, newly created by Tribal Council on September 7, 2004 by Resolution No. 045-04.  Approved by BIA on November 8, 2004.</oll:history>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2021-04-23"/>
     <oll:number>045-04</oll:number>
     </rdf:Description>

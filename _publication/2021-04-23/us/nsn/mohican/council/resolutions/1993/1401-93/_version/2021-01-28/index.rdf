@@ -6,10 +6,11 @@
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">Resolution No. 1401-93 — Procedures</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
-    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
+  <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
     <rdfs:label xml:lang="en">[2021-04-23/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 1401-93</rdfs:label>
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1993-09-07</oll:dateAdopted>
+    <oll:history>Amended Procedures Ordinances by changing posting period in Section 1 from 15 to 14 days, and deleting phrase in Section 8 referring to Tomah Agency.</oll:history>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2021-04-23"/>
     <oll:number>1401-93</oll:number>
-  </rdf:Description>
+    </rdf:Description>
 </rdf:RDF>

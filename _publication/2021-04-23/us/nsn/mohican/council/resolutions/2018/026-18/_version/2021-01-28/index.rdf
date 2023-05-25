@@ -12,6 +12,6 @@
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-03-06</oll:dateAdopted>
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-01-28</oll:dateEffective>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2021-04-23"/>
-    <oll:number>026-18</oll:number>
-  </rdf:Description>
+  <oll:number>026-18</oll:number>
+    </rdf:Description>
 </rdf:RDF>
