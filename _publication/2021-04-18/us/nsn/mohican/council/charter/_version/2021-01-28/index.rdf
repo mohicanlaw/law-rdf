@@ -4,7 +4,7 @@
     <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
     <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/charter/adopted/charter.pdf"/>
     <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2021-04-18/us/nsn/mohican/council/charter/"/>
-  <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/charter/PL_106-216.pdf"/>
+    <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/charter/PL_106-216.pdf"/>
     <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/1995/adopted/1533-95.pdf"/>
     <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/1996/adopted/047-96.pdf"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
@@ -29,7 +29,7 @@ ARTICLE XVII — FUNDS AND ACCOUNTING
 ARTICLE XVIII — SOVEREIGN IMMUNITY
 ARTICLE XIX — AMENDMENTS
 </dcterms:tableOfContents>
-    <dcterms:title xml:lang="en">Stockbridge-Munsee Federal Corporate Charter.</dcterms:title>
+  <dcterms:title xml:lang="en">Stockbridge-Munsee Federal Corporate Charter.</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Charter"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdfs:label xml:lang="en">[2021-04-18/2021-01-28]: Stockbridge-Munsee Federal Corporate Charter</rdfs:label>
