@@ -5,10 +5,11 @@
     <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2021-08-09/us/nsn/mohican/council/resolutions/1995/1490-95"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">Resolution No. 1490-95 — Tribal Court Code</dcterms:title>
-    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+  <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
-  <rdfs:label xml:lang="en">[2021-08-09/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 1490-95</rdfs:label>
+    <rdfs:label xml:lang="en">[2021-08-09/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 1490-95</rdfs:label>
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1995-04-25</oll:dateAdopted>
+    <oll:history>Resolution No. 1490-95 dated April 25, 1995 amends Court Code in section 1.03(B) by adding "For purposes of initial establishment of the Tribal Court, the first judges to the tribal court may be appointed by the Tribal Council to serve two-year terms. When the two-year terms are expired, or as soon thereafter as the general tribal election is held, the tribal judges will thereafter be elected positions."</oll:history>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2021-08-09"/>
     <oll:number>1490-95</oll:number>
     </rdf:Description>

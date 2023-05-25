@@ -7,10 +7,10 @@
     <dcterms:title xml:lang="en">Resolution No. 012-20 — Appellate Procedure</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
-  <rdfs:label xml:lang="en">[2021-08-09/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 012-20</rdfs:label>
+    <rdfs:label xml:lang="en">[2021-08-09/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 012-20</rdfs:label>
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-11-06</oll:dateAdopted>
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-01-28</oll:dateEffective>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2021-08-09"/>
-    <oll:number>012-20</oll:number>
+  <oll:number>012-20</oll:number>
     </rdf:Description>
 </rdf:RDF>
