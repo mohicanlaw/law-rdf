@@ -11,7 +11,8 @@
     <rdfs:label xml:lang="en">[2021-02-28/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 062-19</rdfs:label>
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-08-20</oll:dateAdopted>
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-01-28</oll:dateEffective>
+  <oll:history>On August 20, 2019, the Tribal Council adopted a new ordinance, the Chapter 70 – Stockbridge-Munsee Flag Ordinance, by Resolution No. 062-19. The Tribe affirmed its adoption of the ordinance on January 21, 2021 in Resolution #017-21 after the BIA declined to act for timeliness. The new Flag Ordinance was approved by the BIA on January 28, 2021.</oll:history>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2021-02-28"/>
     <oll:number>062-19</oll:number>
-  </rdf:Description>
+    </rdf:Description>
 </rdf:RDF>
