@@ -4,7 +4,7 @@
     <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
     <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/2016/BIA/025-16.pdf"/>
     <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2021-02-26/us/nsn/mohican/council/resolutions/2016/025-16"/>
-  <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">Resolution No. 025-16 — Dissolution of Marriage</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
@@ -12,6 +12,6 @@
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-02</oll:dateAdopted>
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-02-22</oll:dateEffective>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2021-02-26"/>
-    <oll:number>025-16</oll:number>
+  <oll:number>025-16</oll:number>
     </rdf:Description>
 </rdf:RDF>
