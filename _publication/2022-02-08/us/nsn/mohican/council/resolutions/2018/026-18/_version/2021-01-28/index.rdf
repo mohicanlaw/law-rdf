@@ -3,7 +3,7 @@
     <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-02-08</dcterms:available>
     <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
     <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/council/resolutions/2018/adopted/026-18.pdf"/>
-    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2022-02-08/us/nsn/mohican/council/resolutions/2018/026-18"/>
+  <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2022-02-08/us/nsn/mohican/council/resolutions/2018/026-18"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">Resolution No. 026-18 — Tax</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
@@ -13,5 +13,5 @@
     <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-01-28</oll:dateEffective>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-02-08"/>
     <oll:number>026-18</oll:number>
-  </rdf:Description>
+    </rdf:Description>
 </rdf:RDF>
