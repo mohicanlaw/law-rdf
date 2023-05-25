@@ -4,7 +4,7 @@
     <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
     <dcterms:isPartOf rdf:resource="https://law.mohican.com/"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication"/>
-  <rdfs:label xml:lang="en">Publication 2022-05-12</rdfs:label>
+    <rdfs:label xml:lang="en">Publication 2022-05-12</rdfs:label>
     <oll:hasDocument rdf:resource="https://law.mohican.com/_publication/2022-05-12/_date/2021-01-28/us/nsn/mohican/council/charter/"/>
     <oll:hasDocument rdf:resource="https://law.mohican.com/_publication/2022-05-12/_date/2021-01-28/us/nsn/mohican/council/code"/>
     <oll:hasDocument rdf:resource="https://law.mohican.com/_publication/2022-05-12/_date/2021-01-28/us/nsn/mohican/council/constitution"/>
@@ -44,7 +44,7 @@
     <oll:hasDocument rdf:resource="https://law.mohican.com/_publication/2022-05-12/_date/2021-01-28/us/nsn/mohican/council/resolutions/1990/1179"/>
     <oll:hasDocument rdf:resource="https://law.mohican.com/_publication/2022-05-12/_date/2021-01-28/us/nsn/mohican/council/resolutions/1990/1208"/>
     <oll:hasDocument rdf:resource="https://law.mohican.com/_publication/2022-05-12/_date/2021-01-28/us/nsn/mohican/council/resolutions/1992/1316"/>
-    <oll:hasDocument rdf:resource="https://law.mohican.com/_publication/2022-05-12/_date/2021-01-28/us/nsn/mohican/council/resolutions/1992/1317"/>
+  <oll:hasDocument rdf:resource="https://law.mohican.com/_publication/2022-05-12/_date/2021-01-28/us/nsn/mohican/council/resolutions/1992/1317"/>
     <oll:hasDocument rdf:resource="https://law.mohican.com/_publication/2022-05-12/_date/2021-01-28/us/nsn/mohican/council/resolutions/1992/1338-92"/>
     <oll:hasDocument rdf:resource="https://law.mohican.com/_publication/2022-05-12/_date/2021-01-28/us/nsn/mohican/council/resolutions/1993/1370-93"/>
     <oll:hasDocument rdf:resource="https://law.mohican.com/_publication/2022-05-12/_date/2021-01-28/us/nsn/mohican/council/resolutions/1993/1401-93"/>

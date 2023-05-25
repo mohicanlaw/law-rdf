@@ -1,0 +1,925 @@
+{
+  "data": {
+    "/": {
+      "doc": null,
+      "path": null,
+      "ptag": "library",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library"
+    },
+    "/us/nsn/mohican/council/code": {
+      "doc": "Stockbridge-Munsee Tribal Code",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Subelements changed",
+      "searchpath": "library|Stockbridge-Munsee Tribal Code"
+    },
+    "/us/nsn/mohican/council/code/TAX": {
+      "doc": "Stockbridge-Munsee Tribal Code",
+      "path": "|TAX",
+      "ptag": "container",
+      "cite": "Title TAX",
+      "status": "Subelements changed",
+      "searchpath": "library|Stockbridge-Munsee Tribal Code|TAX"
+    },
+    "/us/nsn/mohican/council/code/TAX.02": {
+      "doc": "Stockbridge-Munsee Tribal Code",
+      "path": "|TAX.02",
+      "ptag": "container",
+      "cite": "Chapter TAX.02",
+      "status": "Element changed",
+      "searchpath": "library|Stockbridge-Munsee Tribal Code|TAX|TAX.02"
+    },
+    "/us/nsn/mohican/council/resolutions": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions"
+    },
+    "/us/nsn/mohican/council/resolutions/1987": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|1987"
+    },
+    "/us/nsn/mohican/council/resolutions/1987/1037": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 1037",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|1987|Stockbridge-Munsee Tribal Council Res. No. 1037"
+    },
+    "/us/nsn/mohican/council/resolutions/1995": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|1995"
+    },
+    "/us/nsn/mohican/council/resolutions/1995/1552-95": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 1552-95",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|1995|Stockbridge-Munsee Tribal Council Res. No. 1552-95"
+    },
+    "/us/nsn/mohican/council/resolutions/1996": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|1996"
+    },
+    "/us/nsn/mohican/council/resolutions/1996/012-96": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 012-96",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|1996|Stockbridge-Munsee Tribal Council Res. No. 012-96"
+    },
+    "/us/nsn/mohican/council/resolutions/1996/078-96": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 078-96",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|1996|Stockbridge-Munsee Tribal Council Res. No. 078-96"
+    },
+    "/us/nsn/mohican/council/resolutions/1997": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|1997"
+    },
+    "/us/nsn/mohican/council/resolutions/1997/108-97": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 108-97",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|1997|Stockbridge-Munsee Tribal Council Res. No. 108-97"
+    },
+    "/us/nsn/mohican/council/resolutions/1998": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|1998"
+    },
+    "/us/nsn/mohican/council/resolutions/1998/050-98": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 050-98",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|1998|Stockbridge-Munsee Tribal Council Res. No. 050-98"
+    },
+    "/us/nsn/mohican/council/resolutions/1999": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|1999"
+    },
+    "/us/nsn/mohican/council/resolutions/1999/02-99": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 02-99",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|1999|Stockbridge-Munsee Tribal Council Res. No. 02-99"
+    },
+    "/us/nsn/mohican/council/resolutions/1999/082-99": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 082-99",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|1999|Stockbridge-Munsee Tribal Council Res. No. 082-99"
+    },
+    "/us/nsn/mohican/council/resolutions/2000": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2000"
+    },
+    "/us/nsn/mohican/council/resolutions/2000/022-2000": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 022-2000",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2000|Stockbridge-Munsee Tribal Council Res. No. 022-2000"
+    },
+    "/us/nsn/mohican/council/resolutions/2000/038-2000": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 038-2000",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2000|Stockbridge-Munsee Tribal Council Res. No. 038-2000"
+    },
+    "/us/nsn/mohican/council/resolutions/2000/067-2000": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 067-2000",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2000|Stockbridge-Munsee Tribal Council Res. No. 067-2000"
+    },
+    "/us/nsn/mohican/council/resolutions/2000/072-2000": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 072-2000",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2000|Stockbridge-Munsee Tribal Council Res. No. 072-2000"
+    },
+    "/us/nsn/mohican/council/resolutions/2000/09-2000": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 09-2000",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2000|Stockbridge-Munsee Tribal Council Res. No. 09-2000"
+    },
+    "/us/nsn/mohican/council/resolutions/2000/64-00": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 64-00",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2000|Stockbridge-Munsee Tribal Council Res. No. 64-00"
+    },
+    "/us/nsn/mohican/council/resolutions/2001": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2001"
+    },
+    "/us/nsn/mohican/council/resolutions/2001/04-2201": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 04-2201",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2001|Stockbridge-Munsee Tribal Council Res. No. 04-2201"
+    },
+    "/us/nsn/mohican/council/resolutions/2002": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2002"
+    },
+    "/us/nsn/mohican/council/resolutions/2002/01-02": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 01-02",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2002|Stockbridge-Munsee Tribal Council Res. No. 01-02"
+    },
+    "/us/nsn/mohican/council/resolutions/2002/013-02": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 013-02",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2002|Stockbridge-Munsee Tribal Council Res. No. 013-02"
+    },
+    "/us/nsn/mohican/council/resolutions/2002/02-034": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 02-034",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2002|Stockbridge-Munsee Tribal Council Res. No. 02-034"
+    },
+    "/us/nsn/mohican/council/resolutions/2002/03-02": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 03-02",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2002|Stockbridge-Munsee Tribal Council Res. No. 03-02"
+    },
+    "/us/nsn/mohican/council/resolutions/2002/045-02": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 045-02",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2002|Stockbridge-Munsee Tribal Council Res. No. 045-02"
+    },
+    "/us/nsn/mohican/council/resolutions/2002/071-02": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 071-02",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2002|Stockbridge-Munsee Tribal Council Res. No. 071-02"
+    },
+    "/us/nsn/mohican/council/resolutions/2003": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2003"
+    },
+    "/us/nsn/mohican/council/resolutions/2003/043-03": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 043-03",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2003|Stockbridge-Munsee Tribal Council Res. No. 043-03"
+    },
+    "/us/nsn/mohican/council/resolutions/2003/056-03": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 056-03",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2003|Stockbridge-Munsee Tribal Council Res. No. 056-03"
+    },
+    "/us/nsn/mohican/council/resolutions/2004": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2004"
+    },
+    "/us/nsn/mohican/council/resolutions/2004/019-04": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 019-04",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2004|Stockbridge-Munsee Tribal Council Res. No. 019-04"
+    },
+    "/us/nsn/mohican/council/resolutions/2004/023-04": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 023-04",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2004|Stockbridge-Munsee Tribal Council Res. No. 023-04"
+    },
+    "/us/nsn/mohican/council/resolutions/2004/026-04": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 026-04",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2004|Stockbridge-Munsee Tribal Council Res. No. 026-04"
+    },
+    "/us/nsn/mohican/council/resolutions/2004/039-04": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 039-04",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2004|Stockbridge-Munsee Tribal Council Res. No. 039-04"
+    },
+    "/us/nsn/mohican/council/resolutions/2004/052-04": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 052-04",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2004|Stockbridge-Munsee Tribal Council Res. No. 052-04"
+    },
+    "/us/nsn/mohican/council/resolutions/2005": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2005"
+    },
+    "/us/nsn/mohican/council/resolutions/2005/014-05": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 014-05",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2005|Stockbridge-Munsee Tribal Council Res. No. 014-05"
+    },
+    "/us/nsn/mohican/council/resolutions/2005/019-05": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 019-05",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2005|Stockbridge-Munsee Tribal Council Res. No. 019-05"
+    },
+    "/us/nsn/mohican/council/resolutions/2005/020-05": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 020-05",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2005|Stockbridge-Munsee Tribal Council Res. No. 020-05"
+    },
+    "/us/nsn/mohican/council/resolutions/2005/028-05": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 028-05",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2005|Stockbridge-Munsee Tribal Council Res. No. 028-05"
+    },
+    "/us/nsn/mohican/council/resolutions/2005/046-05": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 046-05",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2005|Stockbridge-Munsee Tribal Council Res. No. 046-05"
+    },
+    "/us/nsn/mohican/council/resolutions/2006": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2006"
+    },
+    "/us/nsn/mohican/council/resolutions/2006/021-06": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 021-06",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2006|Stockbridge-Munsee Tribal Council Res. No. 021-06"
+    },
+    "/us/nsn/mohican/council/resolutions/2006/026-06": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 026-06",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2006|Stockbridge-Munsee Tribal Council Res. No. 026-06"
+    },
+    "/us/nsn/mohican/council/resolutions/2006/027-06": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 027-06",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2006|Stockbridge-Munsee Tribal Council Res. No. 027-06"
+    },
+    "/us/nsn/mohican/council/resolutions/2006/044-06": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 044-06",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2006|Stockbridge-Munsee Tribal Council Res. No. 044-06"
+    },
+    "/us/nsn/mohican/council/resolutions/2006/045-06": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 045-06",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2006|Stockbridge-Munsee Tribal Council Res. No. 045-06"
+    },
+    "/us/nsn/mohican/council/resolutions/2006/050-06": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 050-06",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2006|Stockbridge-Munsee Tribal Council Res. No. 050-06"
+    },
+    "/us/nsn/mohican/council/resolutions/2006/051-06": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 051-06",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2006|Stockbridge-Munsee Tribal Council Res. No. 051-06"
+    },
+    "/us/nsn/mohican/council/resolutions/2006/07-06": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 07-06",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2006|Stockbridge-Munsee Tribal Council Res. No. 07-06"
+    },
+    "/us/nsn/mohican/council/resolutions/2007": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2007"
+    },
+    "/us/nsn/mohican/council/resolutions/2007/033-07": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 033-07",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2007|Stockbridge-Munsee Tribal Council Res. No. 033-07"
+    },
+    "/us/nsn/mohican/council/resolutions/2007/046-07": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 046-07",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2007|Stockbridge-Munsee Tribal Council Res. No. 046-07"
+    },
+    "/us/nsn/mohican/council/resolutions/2007/049-07": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 049-07",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2007|Stockbridge-Munsee Tribal Council Res. No. 049-07"
+    },
+    "/us/nsn/mohican/council/resolutions/2007/056-07": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 056-07",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2007|Stockbridge-Munsee Tribal Council Res. No. 056-07"
+    },
+    "/us/nsn/mohican/council/resolutions/2009": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2009"
+    },
+    "/us/nsn/mohican/council/resolutions/2009/021-09": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 021-09",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2009|Stockbridge-Munsee Tribal Council Res. No. 021-09"
+    },
+    "/us/nsn/mohican/council/resolutions/2009/058-09": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 058-09",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2009|Stockbridge-Munsee Tribal Council Res. No. 058-09"
+    },
+    "/us/nsn/mohican/council/resolutions/2009/060-09": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 060-09",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2009|Stockbridge-Munsee Tribal Council Res. No. 060-09"
+    },
+    "/us/nsn/mohican/council/resolutions/2009/066-09": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 066-09",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2009|Stockbridge-Munsee Tribal Council Res. No. 066-09"
+    },
+    "/us/nsn/mohican/council/resolutions/2009/068-09": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 068-09",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2009|Stockbridge-Munsee Tribal Council Res. No. 068-09"
+    },
+    "/us/nsn/mohican/council/resolutions/2009/082-09": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 082-09",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2009|Stockbridge-Munsee Tribal Council Res. No. 082-09"
+    },
+    "/us/nsn/mohican/council/resolutions/2009/083-09": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 083-09",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2009|Stockbridge-Munsee Tribal Council Res. No. 083-09"
+    },
+    "/us/nsn/mohican/council/resolutions/2010": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2010"
+    },
+    "/us/nsn/mohican/council/resolutions/2010/054-10": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 054-10",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2010|Stockbridge-Munsee Tribal Council Res. No. 054-10"
+    },
+    "/us/nsn/mohican/council/resolutions/2010/055-10": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 055-10",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2010|Stockbridge-Munsee Tribal Council Res. No. 055-10"
+    },
+    "/us/nsn/mohican/council/resolutions/2011": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2011"
+    },
+    "/us/nsn/mohican/council/resolutions/2011/06-11": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 06-11",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2011|Stockbridge-Munsee Tribal Council Res. No. 06-11"
+    },
+    "/us/nsn/mohican/council/resolutions/2011/060-11": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 060-11",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2011|Stockbridge-Munsee Tribal Council Res. No. 060-11"
+    },
+    "/us/nsn/mohican/council/resolutions/2012": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2012"
+    },
+    "/us/nsn/mohican/council/resolutions/2012/012-12": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 012-12",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2012|Stockbridge-Munsee Tribal Council Res. No. 012-12"
+    },
+    "/us/nsn/mohican/council/resolutions/2012/034-12": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 034-12",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2012|Stockbridge-Munsee Tribal Council Res. No. 034-12"
+    },
+    "/us/nsn/mohican/council/resolutions/2012/040-12": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 040-12",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2012|Stockbridge-Munsee Tribal Council Res. No. 040-12"
+    },
+    "/us/nsn/mohican/council/resolutions/2013": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2013"
+    },
+    "/us/nsn/mohican/council/resolutions/2013/0002-13": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 0002-13",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2013|Stockbridge-Munsee Tribal Council Res. No. 0002-13"
+    },
+    "/us/nsn/mohican/council/resolutions/2013/0004-13": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 0004-13",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2013|Stockbridge-Munsee Tribal Council Res. No. 0004-13"
+    },
+    "/us/nsn/mohican/council/resolutions/2013/007-13": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 007-13",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2013|Stockbridge-Munsee Tribal Council Res. No. 007-13"
+    },
+    "/us/nsn/mohican/council/resolutions/2013/009-13": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 009-13",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2013|Stockbridge-Munsee Tribal Council Res. No. 009-13"
+    },
+    "/us/nsn/mohican/council/resolutions/2013/031-13": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 031-13",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2013|Stockbridge-Munsee Tribal Council Res. No. 031-13"
+    },
+    "/us/nsn/mohican/council/resolutions/2013/049-13": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 049-13",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2013|Stockbridge-Munsee Tribal Council Res. No. 049-13"
+    },
+    "/us/nsn/mohican/council/resolutions/2013/054-13": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 054-13",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2013|Stockbridge-Munsee Tribal Council Res. No. 054-13"
+    },
+    "/us/nsn/mohican/council/resolutions/2014": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2014"
+    },
+    "/us/nsn/mohican/council/resolutions/2014/036-14": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 036-14",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2014|Stockbridge-Munsee Tribal Council Res. No. 036-14"
+    },
+    "/us/nsn/mohican/council/resolutions/2014/043-14": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 043-14",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2014|Stockbridge-Munsee Tribal Council Res. No. 043-14"
+    },
+    "/us/nsn/mohican/council/resolutions/2014/07-14": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 07-14",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2014|Stockbridge-Munsee Tribal Council Res. No. 07-14"
+    },
+    "/us/nsn/mohican/council/resolutions/2015": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2015"
+    },
+    "/us/nsn/mohican/council/resolutions/2015/048-15": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 048-15",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2015|Stockbridge-Munsee Tribal Council Res. No. 048-15"
+    },
+    "/us/nsn/mohican/council/resolutions/2015/049-15": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 049-15",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2015|Stockbridge-Munsee Tribal Council Res. No. 049-15"
+    },
+    "/us/nsn/mohican/council/resolutions/2015/053-15": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 053-15",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2015|Stockbridge-Munsee Tribal Council Res. No. 053-15"
+    },
+    "/us/nsn/mohican/council/resolutions/2015/054-15": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 054-15",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2015|Stockbridge-Munsee Tribal Council Res. No. 054-15"
+    },
+    "/us/nsn/mohican/council/resolutions/2015/057-15": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 057-15",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2015|Stockbridge-Munsee Tribal Council Res. No. 057-15"
+    },
+    "/us/nsn/mohican/council/resolutions/2015/08-15": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 08-15",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2015|Stockbridge-Munsee Tribal Council Res. No. 08-15"
+    },
+    "/us/nsn/mohican/council/resolutions/2016": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2016"
+    },
+    "/us/nsn/mohican/council/resolutions/2016/024-16": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 024-16",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2016|Stockbridge-Munsee Tribal Council Res. No. 024-16"
+    },
+    "/us/nsn/mohican/council/resolutions/2016/029-16": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 029-16",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2016|Stockbridge-Munsee Tribal Council Res. No. 029-16"
+    },
+    "/us/nsn/mohican/council/resolutions/2016/037-16": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 037-16",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2016|Stockbridge-Munsee Tribal Council Res. No. 037-16"
+    },
+    "/us/nsn/mohican/council/resolutions/2016/038-16": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 038-16",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2016|Stockbridge-Munsee Tribal Council Res. No. 038-16"
+    },
+    "/us/nsn/mohican/council/resolutions/2016/063-16": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 063-16",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2016|Stockbridge-Munsee Tribal Council Res. No. 063-16"
+    },
+    "/us/nsn/mohican/council/resolutions/2017": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2017"
+    },
+    "/us/nsn/mohican/council/resolutions/2017/042-17": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 042-17",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2017|Stockbridge-Munsee Tribal Council Res. No. 042-17"
+    },
+    "/us/nsn/mohican/council/resolutions/2017/050-17": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 050-17",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2017|Stockbridge-Munsee Tribal Council Res. No. 050-17"
+    },
+    "/us/nsn/mohican/council/resolutions/2020": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2020"
+    },
+    "/us/nsn/mohican/council/resolutions/2020/011-20": {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 011-20",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|us/nsn/mohican/council/resolutions|2020|Stockbridge-Munsee Tribal Council Res. No. 011-20"
+    }
+  },
+  "publication_name": "2022-05-12",
+  "codified_date": "2021-01-28",
+  "reasons": {
+    "Stockbridge-Munsee Tribal Council Res. No. 011-20": [
+      "effective"
+    ],
+    "Stockbridge-Munsee Tribal Council Res. No. 012-20": [
+      "effective"
+    ],
+    "Stockbridge-Munsee Tribal Council Res. No. 026-18": [
+      "effective"
+    ],
+    "Stockbridge-Munsee Tribal Council Res. No. 031-20": [
+      "effective"
+    ],
+    "Stockbridge-Munsee Tribal Council Res. No. 034-18": [
+      "effective"
+    ],
+    "Stockbridge-Munsee Tribal Council Res. No. 059-19": [
+      "effective"
+    ],
+    "Stockbridge-Munsee Tribal Council Res. No. 062-19": [
+      "effective"
+    ]
+  }
+}
