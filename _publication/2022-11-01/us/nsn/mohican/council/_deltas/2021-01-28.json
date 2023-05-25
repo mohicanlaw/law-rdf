@@ -1,0 +1,85 @@
+{
+  "data": {
+    "/": {
+      "doc": null,
+      "path": null,
+      "ptag": "library",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library"
+    },
+    "/us/nsn/mohican/council/code": {
+      "doc": "Stockbridge-Munsee Tribal Code",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Subelements changed",
+      "searchpath": "library|Stockbridge-Munsee Tribal Code"
+    },
+    "/us/nsn/mohican/council/code/DMR": {
+      "doc": "Stockbridge-Munsee Tribal Code",
+      "path": "|DMR",
+      "ptag": "container",
+      "cite": "Title DMR",
+      "status": "Subelements changed",
+      "searchpath": "library|Stockbridge-Munsee Tribal Code|DMR"
+    },
+    "/us/nsn/mohican/council/code/DMR.01": {
+      "doc": "Stockbridge-Munsee Tribal Code",
+      "path": "|DMR.01",
+      "ptag": "container",
+      "cite": "Chapter DMR.01",
+      "status": "Subelements changed",
+      "searchpath": "library|Stockbridge-Munsee Tribal Code|DMR|DMR.01"
+    },
+    "/us/nsn/mohican/council/code/DMR.01.14": {
+      "doc": "Stockbridge-Munsee Tribal Code",
+      "path": "|DMR.01.14",
+      "ptag": "section",
+      "cite": "Section DMR.01.14",
+      "status": "Element changed",
+      "searchpath": "library|Stockbridge-Munsee Tribal Code|DMR|DMR.01|DMR.01.14"
+    },
+    "/us/nsn/mohican/council/code/attachments": {
+      "doc": "Stockbridge-Munsee Tribal Code",
+      "path": "",
+      "ptag": "container",
+      "cite": "Attachments",
+      "status": "Subelements changed",
+      "searchpath": "library|Stockbridge-Munsee Tribal Code|"
+    },
+    "/us/nsn/mohican/council/code/attachments/recodification-table": {
+      "doc": "Stockbridge-Munsee Tribal Code",
+      "path": "",
+      "ptag": "attachment",
+      "cite": "Recodification Table",
+      "status": "Element changed",
+      "searchpath": "library|Stockbridge-Munsee Tribal Code||"
+    }
+  },
+  "publication_name": "2022-11-01",
+  "codified_date": "2021-01-28",
+  "reasons": {
+    "Stockbridge-Munsee Tribal Council Res. No. 011-20": [
+      "effective"
+    ],
+    "Stockbridge-Munsee Tribal Council Res. No. 012-20": [
+      "effective"
+    ],
+    "Stockbridge-Munsee Tribal Council Res. No. 026-18": [
+      "effective"
+    ],
+    "Stockbridge-Munsee Tribal Council Res. No. 031-20": [
+      "effective"
+    ],
+    "Stockbridge-Munsee Tribal Council Res. No. 034-18": [
+      "effective"
+    ],
+    "Stockbridge-Munsee Tribal Council Res. No. 059-19": [
+      "effective"
+    ],
+    "Stockbridge-Munsee Tribal Council Res. No. 062-19": [
+      "effective"
+    ]
+  }
+}
