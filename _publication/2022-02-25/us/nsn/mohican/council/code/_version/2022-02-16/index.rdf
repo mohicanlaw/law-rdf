@@ -24,11 +24,73 @@ Title TAX — Tax(§§ TAX.01.01 – TAX.01.25)
 Attachments
 </dcterms:tableOfContents>
     <dcterms:title xml:lang="en">Stockbridge-Munsee Tribal Code.</dcterms:title>
-  <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdfs:label xml:lang="en">[2022-02-25/2022-02-16]: Stockbridge-Munsee Tribal Code</rdfs:label>
+    <oll:codifiedDate>2022-02-16</oll:codifiedDate>
     <oll:dateCurrentThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-02-16</oll:dateCurrentThrough>
+    <oll:docId>Stockbridge-Munsee Tribal Code</oll:docId>
+    <oll:hasChanges rdf:resource="https://law.mohican.com/_publication/2022-02-25/_date/2022-02-16/us/nsn/mohican/council/code/_changes"/>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-02-25"/>
     <oll:lastCodifiedDocument rdf:resource="https://law.mohican.com/_publication/2022-02-25/us/nsn/mohican/council/resolutions/2022/026-22"/>
-    </rdf:Description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-02-25/_date/2022-02-16/us/nsn/mohican/council/code/TCT.%5B07%5D">
+    <oll:cite xml:lang="en">Chapter TCT.[07]</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|TCT|TCT.[07]|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element removed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/TCT.[07]</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-02-25/_date/2022-02-16/us/nsn/mohican/council/code/TCT.07">
+    <oll:cite xml:lang="en">Chapter TCT.07</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|TCT|TCT.07|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/TCT.07</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-02-25/_date/2022-02-16/us/nsn/mohican/council/code/TCT.07.01">
+    <oll:cite xml:lang="en">Section TCT.07.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|TCT|TCT.07|TCT.07.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/TCT.07.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-02-25/_date/2022-02-16/us/nsn/mohican/council/code/TCT.07.02">
+    <oll:cite xml:lang="en">Section TCT.07.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|TCT|TCT.07|TCT.07.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/TCT.07.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-02-25/_date/2022-02-16/us/nsn/mohican/council/code/TCT.07.03">
+    <oll:cite xml:lang="en">Section TCT.07.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|TCT|TCT.07|TCT.07.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/TCT.07.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-02-25/_date/2022-02-16/us/nsn/mohican/council/code/TCT.07.04">
+    <oll:cite xml:lang="en">Section TCT.07.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|TCT|TCT.07|TCT.07.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/TCT.07.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-02-25/_date/2022-02-16/us/nsn/mohican/council/code/TCT.07.05">
+    <oll:cite xml:lang="en">Section TCT.07.05</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|TCT|TCT.07|TCT.07.05|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/TCT.07.05</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-02-25/_date/2022-02-16/us/nsn/mohican/council/code/_changes">
+    <rdf:_1 rdf:resource="https://law.mohican.com/_publication/2022-02-25/_date/2022-02-16/us/nsn/mohican/council/code/TCT.07"/>
+    <rdf:_2 rdf:resource="https://law.mohican.com/_publication/2022-02-25/_date/2022-02-16/us/nsn/mohican/council/code/TCT.07.01"/>
+    <rdf:_3 rdf:resource="https://law.mohican.com/_publication/2022-02-25/_date/2022-02-16/us/nsn/mohican/council/code/TCT.07.02"/>
+    <rdf:_4 rdf:resource="https://law.mohican.com/_publication/2022-02-25/_date/2022-02-16/us/nsn/mohican/council/code/TCT.07.03"/>
+    <rdf:_5 rdf:resource="https://law.mohican.com/_publication/2022-02-25/_date/2022-02-16/us/nsn/mohican/council/code/TCT.07.04"/>
+    <rdf:_6 rdf:resource="https://law.mohican.com/_publication/2022-02-25/_date/2022-02-16/us/nsn/mohican/council/code/TCT.07.05"/>
+    <rdf:_7 rdf:resource="https://law.mohican.com/_publication/2022-02-25/_date/2022-02-16/us/nsn/mohican/council/code/TCT.%5B07%5D"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
 </rdf:RDF>

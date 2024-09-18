@@ -27,8 +27,78 @@ Attachments
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdfs:label xml:lang="en">[2022-02-08/2022-01-18]: Stockbridge-Munsee Tribal Code</rdfs:label>
-  <oll:dateCurrentThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-01-18</oll:dateCurrentThrough>
+    <oll:codifiedDate>2022-01-18</oll:codifiedDate>
+    <oll:dateCurrentThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-01-18</oll:dateCurrentThrough>
+    <oll:docId>Stockbridge-Munsee Tribal Code</oll:docId>
+    <oll:hasChanges rdf:resource="https://law.mohican.com/_publication/2022-02-08/_date/2022-01-18/us/nsn/mohican/council/code/_changes"/>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-02-08"/>
     <oll:lastCodifiedDocument rdf:resource="https://law.mohican.com/_publication/2022-02-08/us/nsn/mohican/council/resolutions/2022/024-22"/>
-    </rdf:Description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-02-08/_date/2022-01-18/us/nsn/mohican/council/code/SAF.04">
+    <oll:cite xml:lang="en">Chapter SAF.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|SAF|SAF.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/SAF.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-02-08/_date/2022-01-18/us/nsn/mohican/council/code/SAF.04.01">
+    <oll:cite xml:lang="en">Section SAF.04.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|SAF|SAF.04|SAF.04.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/SAF.04.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-02-08/_date/2022-01-18/us/nsn/mohican/council/code/SAF.04.02">
+    <oll:cite xml:lang="en">Section SAF.04.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|SAF|SAF.04|SAF.04.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/SAF.04.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-02-08/_date/2022-01-18/us/nsn/mohican/council/code/SAF.04.03">
+    <oll:cite xml:lang="en">Section SAF.04.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|SAF|SAF.04|SAF.04.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/SAF.04.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-02-08/_date/2022-01-18/us/nsn/mohican/council/code/SAF.04.04">
+    <oll:cite xml:lang="en">Section SAF.04.04</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|SAF|SAF.04|SAF.04.04|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/SAF.04.04</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-02-08/_date/2022-01-18/us/nsn/mohican/council/code/SAF.04.05">
+    <oll:cite xml:lang="en">Section SAF.04.05</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|SAF|SAF.04|SAF.04.05|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/SAF.04.05</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-02-08/_date/2022-01-18/us/nsn/mohican/council/code/SAF.04.06">
+    <oll:cite xml:lang="en">Section SAF.04.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|SAF|SAF.04|SAF.04.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/SAF.04.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-02-08/_date/2022-01-18/us/nsn/mohican/council/code/SAF.04.07">
+    <oll:cite xml:lang="en">Section SAF.04.07</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|SAF|SAF.04|SAF.04.07|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/SAF.04.07</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-02-08/_date/2022-01-18/us/nsn/mohican/council/code/_changes">
+    <rdf:_1 rdf:resource="https://law.mohican.com/_publication/2022-02-08/_date/2022-01-18/us/nsn/mohican/council/code/SAF.04"/>
+    <rdf:_2 rdf:resource="https://law.mohican.com/_publication/2022-02-08/_date/2022-01-18/us/nsn/mohican/council/code/SAF.04.01"/>
+    <rdf:_3 rdf:resource="https://law.mohican.com/_publication/2022-02-08/_date/2022-01-18/us/nsn/mohican/council/code/SAF.04.02"/>
+    <rdf:_4 rdf:resource="https://law.mohican.com/_publication/2022-02-08/_date/2022-01-18/us/nsn/mohican/council/code/SAF.04.03"/>
+    <rdf:_5 rdf:resource="https://law.mohican.com/_publication/2022-02-08/_date/2022-01-18/us/nsn/mohican/council/code/SAF.04.04"/>
+    <rdf:_6 rdf:resource="https://law.mohican.com/_publication/2022-02-08/_date/2022-01-18/us/nsn/mohican/council/code/SAF.04.05"/>
+    <rdf:_7 rdf:resource="https://law.mohican.com/_publication/2022-02-08/_date/2022-01-18/us/nsn/mohican/council/code/SAF.04.06"/>
+    <rdf:_8 rdf:resource="https://law.mohican.com/_publication/2022-02-08/_date/2022-01-18/us/nsn/mohican/council/code/SAF.04.07"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
 </rdf:RDF>

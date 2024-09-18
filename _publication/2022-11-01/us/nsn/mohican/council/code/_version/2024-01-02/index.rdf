@@ -27,8 +27,54 @@ Attachments
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdfs:label xml:lang="en">[2022-11-01/2024-01-02]: Stockbridge-Munsee Tribal Code</rdfs:label>
+    <oll:codifiedDate>2024-01-02</oll:codifiedDate>
     <oll:dateCurrentThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2024-01-02</oll:dateCurrentThrough>
+    <oll:docId>Stockbridge-Munsee Tribal Code</oll:docId>
+    <oll:hasChanges rdf:resource="https://law.mohican.com/_publication/2022-11-01/_date/2024-01-02/us/nsn/mohican/council/code/_changes"/>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2022-11-01"/>
     <oll:lastCodifiedDocument rdf:resource="https://law.mohican.com/_publication/2022-11-01/us/nsn/mohican/council/resolutions/2024/009-24"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-11-01/_date/2024-01-02/us/nsn/mohican/council/code/PRP.03">
+    <oll:cite xml:lang="en">Chapter PRP.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|PRP|PRP.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/PRP.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-11-01/_date/2024-01-02/us/nsn/mohican/council/code/TAX.02">
+    <oll:cite xml:lang="en">Chapter TAX.02</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|TAX|TAX.02|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/TAX.02</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-11-01/_date/2024-01-02/us/nsn/mohican/council/code/TCT.06">
+    <oll:cite xml:lang="en">Chapter TCT.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|TCT|TCT.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/TCT.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-11-01/_date/2024-01-02/us/nsn/mohican/council/code/TCT.06.06">
+    <oll:cite xml:lang="en">Section TCT.06.06</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|TCT|TCT.06|TCT.06.06|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/TCT.06.06</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-11-01/_date/2024-01-02/us/nsn/mohican/council/code/TCT.06.08">
+    <oll:cite xml:lang="en">Section TCT.06.08</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|TCT|TCT.06|TCT.06.08|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/TCT.06.08</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2022-11-01/_date/2024-01-02/us/nsn/mohican/council/code/_changes">
+    <rdf:_1 rdf:resource="https://law.mohican.com/_publication/2022-11-01/_date/2024-01-02/us/nsn/mohican/council/code/PRP.03"/>
+    <rdf:_2 rdf:resource="https://law.mohican.com/_publication/2022-11-01/_date/2024-01-02/us/nsn/mohican/council/code/TAX.02"/>
+    <rdf:_3 rdf:resource="https://law.mohican.com/_publication/2022-11-01/_date/2024-01-02/us/nsn/mohican/council/code/TCT.06"/>
+    <rdf:_4 rdf:resource="https://law.mohican.com/_publication/2022-11-01/_date/2024-01-02/us/nsn/mohican/council/code/TCT.06.06"/>
+    <rdf:_5 rdf:resource="https://law.mohican.com/_publication/2022-11-01/_date/2024-01-02/us/nsn/mohican/council/code/TCT.06.08"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
   </rdf:Description>
 </rdf:RDF>

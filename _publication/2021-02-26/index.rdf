@@ -5,7 +5,7 @@
     <dcterms:isPartOf rdf:resource="https://law.mohican.com/"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication"/>
     <rdfs:label xml:lang="en">Publication 2021-02-26</rdfs:label>
-    <oll:hasDocument rdf:resource="https://law.mohican.com/_publication/2021-02-26/_date/2021-01-28/us/nsn/mohican/council/charter/"/>
+    <oll:hasDocument rdf:resource="https://law.mohican.com/_publication/2021-02-26/_date/2021-01-28/us/nsn/mohican/council/charter"/>
     <oll:hasDocument rdf:resource="https://law.mohican.com/_publication/2021-02-26/_date/2021-01-28/us/nsn/mohican/council/code"/>
     <oll:hasDocument rdf:resource="https://law.mohican.com/_publication/2021-02-26/_date/2021-01-28/us/nsn/mohican/council/constitution"/>
     <oll:hasDocument rdf:resource="https://law.mohican.com/_publication/2021-02-26/_date/2021-01-28/us/nsn/mohican/council/resolutions/1971/003"/>
@@ -60,7 +60,7 @@
     <oll:hasDocument rdf:resource="https://law.mohican.com/_publication/2021-02-26/_date/2021-01-28/us/nsn/mohican/council/resolutions/2016/018-16"/>
     <oll:hasDocument rdf:resource="https://law.mohican.com/_publication/2021-02-26/_date/2021-01-28/us/nsn/mohican/council/resolutions/2016/02-16"/>
     <oll:hasDocument rdf:resource="https://law.mohican.com/_publication/2021-02-26/_date/2021-01-28/us/nsn/mohican/council/resolutions/2016/023-16"/>
-  <oll:hasDocument rdf:resource="https://law.mohican.com/_publication/2021-02-26/_date/2021-01-28/us/nsn/mohican/council/resolutions/2016/024-16"/>
+    <oll:hasDocument rdf:resource="https://law.mohican.com/_publication/2021-02-26/_date/2021-01-28/us/nsn/mohican/council/resolutions/2016/024-16"/>
     <oll:hasDocument rdf:resource="https://law.mohican.com/_publication/2021-02-26/_date/2021-01-28/us/nsn/mohican/council/resolutions/2016/025-16"/>
     <oll:hasDocument rdf:resource="https://law.mohican.com/_publication/2021-02-26/_date/2021-01-28/us/nsn/mohican/council/resolutions/2016/029-16"/>
     <oll:hasDocument rdf:resource="https://law.mohican.com/_publication/2021-02-26/_date/2021-01-28/us/nsn/mohican/council/resolutions/2016/037-16"/>
@@ -77,5 +77,5 @@
     <oll:hasDocument rdf:resource="https://law.mohican.com/_publication/2021-02-26/_date/2021-01-28/us/nsn/mohican/council/resolutions/2020/012-20"/>
     <oll:hasDocument rdf:resource="https://law.mohican.com/_publication/2021-02-26/_date/2021-01-28/us/nsn/mohican/council/resolutions/2020/031-20"/>
     <oll:hasDocument rdf:resource="https://law.mohican.com/_publication/2021-02-26/_date/2021-01-28/us/nsn/mohican/council/resolutions/2020/18-20"/>
-    </rdf:Description>
+  </rdf:Description>
 </rdf:RDF>

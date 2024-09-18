@@ -27,8 +27,174 @@ Attachments
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdfs:label xml:lang="en">[2024-03-11/2021-08-03]: Stockbridge-Munsee Tribal Code</rdfs:label>
+    <oll:codifiedDate>2021-08-03</oll:codifiedDate>
     <oll:dateCurrentThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-08-03</oll:dateCurrentThrough>
+    <oll:docId>Stockbridge-Munsee Tribal Code</oll:docId>
+    <oll:hasChanges rdf:resource="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/_changes"/>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2024-03-11"/>
     <oll:lastCodifiedDocument rdf:resource="https://law.mohican.com/_publication/2024-03-11/us/nsn/mohican/council/resolutions/2021/042-21"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01">
+    <oll:cite xml:lang="en">Chapter ENV.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|ENV|ENV.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/ENV.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.01">
+    <oll:cite xml:lang="en">Section ENV.01.01</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.01|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/ENV.01.01</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.03">
+    <oll:cite xml:lang="en">Section ENV.01.03</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.03|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/ENV.01.03</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.08">
+    <oll:cite xml:lang="en">Section ENV.01.08</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.08|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/ENV.01.08</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.09">
+    <oll:cite xml:lang="en">Section ENV.01.09</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.09|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/ENV.01.09</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.10">
+    <oll:cite xml:lang="en">Section ENV.01.10</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.10|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/ENV.01.10</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.12">
+    <oll:cite xml:lang="en">Section ENV.01.12</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.12|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/ENV.01.12</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.13">
+    <oll:cite xml:lang="en">Section ENV.01.13</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.13|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/ENV.01.13</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.14">
+    <oll:cite xml:lang="en">Section ENV.01.14</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.14|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/ENV.01.14</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.15">
+    <oll:cite xml:lang="en">Section ENV.01.15</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.15|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/ENV.01.15</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.17">
+    <oll:cite xml:lang="en">Section ENV.01.17</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.17|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/ENV.01.17</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.18">
+    <oll:cite xml:lang="en">Section ENV.01.18</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.18|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/ENV.01.18</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.19">
+    <oll:cite xml:lang="en">Section ENV.01.19</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.19|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/ENV.01.19</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.21">
+    <oll:cite xml:lang="en">Section ENV.01.21</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.21|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/ENV.01.21</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.22">
+    <oll:cite xml:lang="en">Section ENV.01.22</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.22|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/ENV.01.22</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.24">
+    <oll:cite xml:lang="en">Section ENV.01.24</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.24|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/ENV.01.24</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.25">
+    <oll:cite xml:lang="en">Section ENV.01.25</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.25|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/ENV.01.25</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.26">
+    <oll:cite xml:lang="en">Section ENV.01.26</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.26|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/ENV.01.26</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.27">
+    <oll:cite xml:lang="en">Section ENV.01.27</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.27|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/ENV.01.27</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.29">
+    <oll:cite xml:lang="en">Section ENV.01.29</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.29|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element changed</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/code/ENV.01.29</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/_changes">
+    <rdf:_10 rdf:resource="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.15"/>
+    <rdf:_11 rdf:resource="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.17"/>
+    <rdf:_12 rdf:resource="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.18"/>
+    <rdf:_13 rdf:resource="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.19"/>
+    <rdf:_14 rdf:resource="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.21"/>
+    <rdf:_15 rdf:resource="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.22"/>
+    <rdf:_16 rdf:resource="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.24"/>
+    <rdf:_17 rdf:resource="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.25"/>
+    <rdf:_18 rdf:resource="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.26"/>
+    <rdf:_19 rdf:resource="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.27"/>
+    <rdf:_1 rdf:resource="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01"/>
+    <rdf:_20 rdf:resource="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.29"/>
+    <rdf:_2 rdf:resource="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.01"/>
+    <rdf:_3 rdf:resource="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.03"/>
+    <rdf:_4 rdf:resource="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.08"/>
+    <rdf:_5 rdf:resource="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.09"/>
+    <rdf:_6 rdf:resource="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.10"/>
+    <rdf:_7 rdf:resource="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.12"/>
+    <rdf:_8 rdf:resource="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.13"/>
+    <rdf:_9 rdf:resource="https://law.mohican.com/_publication/2024-03-11/_date/2021-08-03/us/nsn/mohican/council/code/ENV.01.14"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
   </rdf:Description>
 </rdf:RDF>

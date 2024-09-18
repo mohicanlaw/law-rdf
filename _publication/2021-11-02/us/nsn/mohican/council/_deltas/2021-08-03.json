@@ -1,327 +1,294 @@
 {
-  "data": {
-    "/": {
-      "doc": null,
-      "path": null,
-      "ptag": "library",
-      "cite": null,
-      "status": "Subelements changed",
-      "searchpath": "library"
-    },
-    "/us/nsn/mohican/council/code": {
-      "doc": "Stockbridge-Munsee Tribal Code",
-      "path": "",
-      "ptag": "document",
-      "cite": "",
-      "status": "Subelements changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code"
-    },
-    "/us/nsn/mohican/council/code/ENV": {
-      "doc": "Stockbridge-Munsee Tribal Code",
-      "path": "|ENV",
-      "ptag": "container",
-      "cite": "Title ENV",
-      "status": "Subelements changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV"
-    },
-    "/us/nsn/mohican/council/code/ENV.01": {
+  "data": [
+    {
       "doc": "Stockbridge-Munsee Tribal Code",
       "path": "|ENV.01",
       "ptag": "container",
       "cite": "Chapter ENV.01",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01"
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/mohican/council/code/ENV.01",
+      "doc_mpath": "Stockbridge-Munsee Tribal Code|ENV|ENV.01|",
+      "lib_mpath": "mohicanlaw/law-rdf|",
+      "reason": null
     },
-    "/us/nsn/mohican/council/code/ENV.01.01": {
+    {
       "doc": "Stockbridge-Munsee Tribal Code",
       "path": "|ENV.01.01",
       "ptag": "section",
       "cite": "Section ENV.01.01",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.01"
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/mohican/council/code/ENV.01.01",
+      "doc_mpath": "Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.01|",
+      "lib_mpath": "mohicanlaw/law-rdf|",
+      "reason": null
     },
-    "/us/nsn/mohican/council/code/ENV.01.02": {
-      "doc": "Stockbridge-Munsee Tribal Code",
-      "path": "|ENV.01.02",
-      "ptag": "section",
-      "cite": "Section ENV.01.02",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.02"
-    },
-    "/us/nsn/mohican/council/code/ENV.01.03": {
+    {
       "doc": "Stockbridge-Munsee Tribal Code",
       "path": "|ENV.01.03",
       "ptag": "section",
       "cite": "Section ENV.01.03",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.03"
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/mohican/council/code/ENV.01.03",
+      "doc_mpath": "Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.03|",
+      "lib_mpath": "mohicanlaw/law-rdf|",
+      "reason": null
     },
-    "/us/nsn/mohican/council/code/ENV.01.04": {
-      "doc": "Stockbridge-Munsee Tribal Code",
-      "path": "|ENV.01.04",
-      "ptag": "section",
-      "cite": "Section ENV.01.04",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.04"
-    },
-    "/us/nsn/mohican/council/code/ENV.01.05": {
-      "doc": "Stockbridge-Munsee Tribal Code",
-      "path": "|ENV.01.05",
-      "ptag": "section",
-      "cite": "Section ENV.01.05",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.05"
-    },
-    "/us/nsn/mohican/council/code/ENV.01.06": {
-      "doc": "Stockbridge-Munsee Tribal Code",
-      "path": "|ENV.01.06",
-      "ptag": "section",
-      "cite": "Section ENV.01.06",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.06"
-    },
-    "/us/nsn/mohican/council/code/ENV.01.07": {
-      "doc": "Stockbridge-Munsee Tribal Code",
-      "path": "|ENV.01.07",
-      "ptag": "section",
-      "cite": "Section ENV.01.07",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.07"
-    },
-    "/us/nsn/mohican/council/code/ENV.01.08": {
+    {
       "doc": "Stockbridge-Munsee Tribal Code",
       "path": "|ENV.01.08",
       "ptag": "section",
       "cite": "Section ENV.01.08",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.08"
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/mohican/council/code/ENV.01.08",
+      "doc_mpath": "Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.08|",
+      "lib_mpath": "mohicanlaw/law-rdf|",
+      "reason": null
     },
-    "/us/nsn/mohican/council/code/ENV.01.09": {
+    {
       "doc": "Stockbridge-Munsee Tribal Code",
       "path": "|ENV.01.09",
       "ptag": "section",
       "cite": "Section ENV.01.09",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.09"
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/mohican/council/code/ENV.01.09",
+      "doc_mpath": "Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.09|",
+      "lib_mpath": "mohicanlaw/law-rdf|",
+      "reason": null
     },
-    "/us/nsn/mohican/council/code/ENV.01.10": {
+    {
       "doc": "Stockbridge-Munsee Tribal Code",
       "path": "|ENV.01.10",
       "ptag": "section",
       "cite": "Section ENV.01.10",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.10"
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/mohican/council/code/ENV.01.10",
+      "doc_mpath": "Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.10|",
+      "lib_mpath": "mohicanlaw/law-rdf|",
+      "reason": null
     },
-    "/us/nsn/mohican/council/code/ENV.01.11": {
-      "doc": "Stockbridge-Munsee Tribal Code",
-      "path": "|ENV.01.11",
-      "ptag": "section",
-      "cite": "Section ENV.01.11",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.11"
-    },
-    "/us/nsn/mohican/council/code/ENV.01.12": {
+    {
       "doc": "Stockbridge-Munsee Tribal Code",
       "path": "|ENV.01.12",
       "ptag": "section",
       "cite": "Section ENV.01.12",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.12"
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/mohican/council/code/ENV.01.12",
+      "doc_mpath": "Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.12|",
+      "lib_mpath": "mohicanlaw/law-rdf|",
+      "reason": null
     },
-    "/us/nsn/mohican/council/code/ENV.01.13": {
+    {
       "doc": "Stockbridge-Munsee Tribal Code",
       "path": "|ENV.01.13",
       "ptag": "section",
       "cite": "Section ENV.01.13",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.13"
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/mohican/council/code/ENV.01.13",
+      "doc_mpath": "Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.13|",
+      "lib_mpath": "mohicanlaw/law-rdf|",
+      "reason": null
     },
-    "/us/nsn/mohican/council/code/ENV.01.14": {
+    {
       "doc": "Stockbridge-Munsee Tribal Code",
       "path": "|ENV.01.14",
       "ptag": "section",
       "cite": "Section ENV.01.14",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.14"
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/mohican/council/code/ENV.01.14",
+      "doc_mpath": "Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.14|",
+      "lib_mpath": "mohicanlaw/law-rdf|",
+      "reason": null
     },
-    "/us/nsn/mohican/council/code/ENV.01.15": {
+    {
       "doc": "Stockbridge-Munsee Tribal Code",
       "path": "|ENV.01.15",
       "ptag": "section",
       "cite": "Section ENV.01.15",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.15"
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/mohican/council/code/ENV.01.15",
+      "doc_mpath": "Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.15|",
+      "lib_mpath": "mohicanlaw/law-rdf|",
+      "reason": null
     },
-    "/us/nsn/mohican/council/code/ENV.01.16": {
-      "doc": "Stockbridge-Munsee Tribal Code",
-      "path": "|ENV.01.16",
-      "ptag": "section",
-      "cite": "Section ENV.01.16",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.16"
-    },
-    "/us/nsn/mohican/council/code/ENV.01.17": {
+    {
       "doc": "Stockbridge-Munsee Tribal Code",
       "path": "|ENV.01.17",
       "ptag": "section",
       "cite": "Section ENV.01.17",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.17"
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/mohican/council/code/ENV.01.17",
+      "doc_mpath": "Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.17|",
+      "lib_mpath": "mohicanlaw/law-rdf|",
+      "reason": null
     },
-    "/us/nsn/mohican/council/code/ENV.01.18": {
+    {
       "doc": "Stockbridge-Munsee Tribal Code",
       "path": "|ENV.01.18",
       "ptag": "section",
       "cite": "Section ENV.01.18",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.18"
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/mohican/council/code/ENV.01.18",
+      "doc_mpath": "Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.18|",
+      "lib_mpath": "mohicanlaw/law-rdf|",
+      "reason": null
     },
-    "/us/nsn/mohican/council/code/ENV.01.19": {
+    {
       "doc": "Stockbridge-Munsee Tribal Code",
       "path": "|ENV.01.19",
       "ptag": "section",
       "cite": "Section ENV.01.19",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.19"
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/mohican/council/code/ENV.01.19",
+      "doc_mpath": "Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.19|",
+      "lib_mpath": "mohicanlaw/law-rdf|",
+      "reason": null
     },
-    "/us/nsn/mohican/council/code/ENV.01.20": {
-      "doc": "Stockbridge-Munsee Tribal Code",
-      "path": "|ENV.01.20",
-      "ptag": "section",
-      "cite": "Section ENV.01.20",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.20"
-    },
-    "/us/nsn/mohican/council/code/ENV.01.21": {
+    {
       "doc": "Stockbridge-Munsee Tribal Code",
       "path": "|ENV.01.21",
       "ptag": "section",
       "cite": "Section ENV.01.21",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.21"
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/mohican/council/code/ENV.01.21",
+      "doc_mpath": "Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.21|",
+      "lib_mpath": "mohicanlaw/law-rdf|",
+      "reason": null
     },
-    "/us/nsn/mohican/council/code/ENV.01.22": {
+    {
       "doc": "Stockbridge-Munsee Tribal Code",
       "path": "|ENV.01.22",
       "ptag": "section",
       "cite": "Section ENV.01.22",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.22"
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/mohican/council/code/ENV.01.22",
+      "doc_mpath": "Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.22|",
+      "lib_mpath": "mohicanlaw/law-rdf|",
+      "reason": null
     },
-    "/us/nsn/mohican/council/code/ENV.01.23": {
-      "doc": "Stockbridge-Munsee Tribal Code",
-      "path": "|ENV.01.23",
-      "ptag": "section",
-      "cite": "Section ENV.01.23",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.23"
-    },
-    "/us/nsn/mohican/council/code/ENV.01.24": {
+    {
       "doc": "Stockbridge-Munsee Tribal Code",
       "path": "|ENV.01.24",
       "ptag": "section",
       "cite": "Section ENV.01.24",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.24"
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/mohican/council/code/ENV.01.24",
+      "doc_mpath": "Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.24|",
+      "lib_mpath": "mohicanlaw/law-rdf|",
+      "reason": null
     },
-    "/us/nsn/mohican/council/code/ENV.01.25": {
+    {
       "doc": "Stockbridge-Munsee Tribal Code",
       "path": "|ENV.01.25",
       "ptag": "section",
       "cite": "Section ENV.01.25",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.25"
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/mohican/council/code/ENV.01.25",
+      "doc_mpath": "Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.25|",
+      "lib_mpath": "mohicanlaw/law-rdf|",
+      "reason": null
     },
-    "/us/nsn/mohican/council/code/ENV.01.26": {
+    {
       "doc": "Stockbridge-Munsee Tribal Code",
       "path": "|ENV.01.26",
       "ptag": "section",
       "cite": "Section ENV.01.26",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.26"
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/mohican/council/code/ENV.01.26",
+      "doc_mpath": "Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.26|",
+      "lib_mpath": "mohicanlaw/law-rdf|",
+      "reason": null
     },
-    "/us/nsn/mohican/council/code/ENV.01.27": {
+    {
       "doc": "Stockbridge-Munsee Tribal Code",
       "path": "|ENV.01.27",
       "ptag": "section",
       "cite": "Section ENV.01.27",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.27"
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/mohican/council/code/ENV.01.27",
+      "doc_mpath": "Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.27|",
+      "lib_mpath": "mohicanlaw/law-rdf|",
+      "reason": null
     },
-    "/us/nsn/mohican/council/code/ENV.01.28": {
-      "doc": "Stockbridge-Munsee Tribal Code",
-      "path": "|ENV.01.28",
-      "ptag": "section",
-      "cite": "Section ENV.01.28",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.28"
-    },
-    "/us/nsn/mohican/council/code/ENV.01.29": {
+    {
       "doc": "Stockbridge-Munsee Tribal Code",
       "path": "|ENV.01.29",
       "ptag": "section",
       "cite": "Section ENV.01.29",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.29"
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/mohican/council/code/ENV.01.29",
+      "doc_mpath": "Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.29|",
+      "lib_mpath": "mohicanlaw/law-rdf|",
+      "reason": null
     },
-    "/us/nsn/mohican/council/code/ENV.01.30": {
-      "doc": "Stockbridge-Munsee Tribal Code",
-      "path": "|ENV.01.30",
-      "ptag": "section",
-      "cite": "Section ENV.01.30",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.30"
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "2021",
+      "url": "/us/nsn/mohican/council/resolutions/2021",
+      "lib_mpath": "mohicanlaw/law-rdf|us/nsn/mohican/council/resolutions|2021|",
+      "docs_changes": {
+        "Stockbridge-Munsee Tribal Council Res. No. 042-21": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
     },
-    "/us/nsn/mohican/council/code/ENV.01.31": {
-      "doc": "Stockbridge-Munsee Tribal Code",
-      "path": "|ENV.01.31",
-      "ptag": "section",
-      "cite": "Section ENV.01.31",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.31"
-    },
-    "/us/nsn/mohican/council/code/ENV.01.32": {
-      "doc": "Stockbridge-Munsee Tribal Code",
-      "path": "|ENV.01.32",
-      "ptag": "section",
-      "cite": "Section ENV.01.32",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.32"
-    },
-    "/us/nsn/mohican/council/code/ENV.01.33": {
-      "doc": "Stockbridge-Munsee Tribal Code",
-      "path": "|ENV.01.33",
-      "ptag": "section",
-      "cite": "Section ENV.01.33",
-      "status": "Element changed",
-      "searchpath": "library|Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.33"
-    },
-    "/us/nsn/mohican/council/resolutions": {
-      "doc": null,
-      "path": null,
-      "ptag": "collection",
-      "cite": null,
-      "status": "Subelements changed",
-      "searchpath": "library|us/nsn/mohican/council/resolutions"
-    },
-    "/us/nsn/mohican/council/resolutions/2021": {
-      "doc": null,
-      "path": null,
-      "ptag": "collection",
-      "cite": null,
-      "status": "Subelements changed",
-      "searchpath": "library|us/nsn/mohican/council/resolutions|2021"
-    },
-    "/us/nsn/mohican/council/resolutions/2021/042-21": {
+    {
       "doc": "Stockbridge-Munsee Tribal Council Res. No. 042-21",
       "path": "",
       "ptag": "document",
       "cite": "",
-      "status": "Element added",
-      "searchpath": "library|us/nsn/mohican/council/resolutions|2021|Stockbridge-Munsee Tribal Council Res. No. 042-21"
+      "statuses": [
+        "Element added",
+        "Element effective"
+      ],
+      "url": "/us/nsn/mohican/council/resolutions/2021/042-21",
+      "doc_mpath": "Stockbridge-Munsee Tribal Council Res. No. 042-21|",
+      "lib_mpath": "mohicanlaw/law-rdf|us/nsn/mohican/council/resolutions|2021|",
+      "reason": null
     }
-  },
-  "publication_name": "2021-11-02",
+  ],
+  "publication_name": "publication/2021-11-02",
   "codified_date": "2021-08-03",
   "reasons": {
     "Stockbridge-Munsee Tribal Council Res. No. 042-21": [

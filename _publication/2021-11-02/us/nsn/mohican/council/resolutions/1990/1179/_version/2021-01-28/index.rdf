@@ -4,12 +4,25 @@
     <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
     <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2021-11-02/us/nsn/mohican/council/resolutions/1990/1179"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
-  <dcterms:title xml:lang="en">Resolution No. 1179 — Education</dcterms:title>
+    <dcterms:title xml:lang="en">Resolution No. 1179 — Education</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
     <rdfs:label xml:lang="en">[2021-11-02/2021-01-28]: Stockbridge-Munsee Tribal Council Res. No. 1179</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2021-01-28</oll:codifiedDate>
     <oll:dateAdopted rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1990-02-13</oll:dateAdopted>
+    <oll:docId>Stockbridge-Munsee Tribal Council Res. No. 1179</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">Stockbridge-Munsee Tribal Council Res. No. 1179|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.mohican.com/_publication/2021-11-02/_date/2021-01-28/us/nsn/mohican/council/resolutions/1990/1179/_changes"/>
     <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2021-11-02"/>
     <oll:number>1179</oll:number>
-    </rdf:Description>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/council/resolutions/1990/1179</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2021-11-02/_date/2021-01-28/us/nsn/mohican/council/resolutions/1990/1179/_changes">
+    <rdf:_1 rdf:resource="https://law.mohican.com/_publication/2021-11-02/_date/2021-01-28/us/nsn/mohican/council/resolutions/1990/1179"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
 </rdf:RDF>
