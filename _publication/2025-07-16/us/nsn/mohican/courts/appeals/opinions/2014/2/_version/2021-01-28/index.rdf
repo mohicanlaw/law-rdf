@@ -1,0 +1,98 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-07-16/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2014/2">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-07-16</dcterms:available>
+    <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/courts/appeals/opinions/2014/2/us/nsn/mohican/courts/appeals/opinions/2014/2014%20SMTCA%202.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2025-07-16/us/nsn/mohican/courts/appeals/opinions/2014/2"/>
+    <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/courts/appeals/opinions/2014/2/us/nsn/mohican/courts/appeals/opinions/2014/3-AP-2013-CV-0002.pdf"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+INTRODUCTION
+STATEMENT OF THE CASE
+DISCUSSION
+CONCLUSION
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">2014 SMTCA 2 Robert Miller III vs. Bart D.Schultz</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2025-07-16/2021-01-28]: 2014 SMTCA 2</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2021-01-28</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2014-04-24</oll:dateEffective>
+    <oll:docId>2014 SMTCA 2</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">2014 SMTCA 2|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.mohican.com/_publication/2025-07-16/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2014/2/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2025-07-16"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2014/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-07-16/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2014/2#conclusion">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2014 SMTCA 2|conclusion|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2014/2#conclusion</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-07-16/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2014/2#discussion">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2014 SMTCA 2|discussion|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2014/2#discussion</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-07-16/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2014/2#discussion/due-process">
+    <oll:cite xml:lang="en"> , </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2014 SMTCA 2|discussion|due-process|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2014/2#discussion/due-process</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-07-16/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2014/2#discussion/grant-of-summary-judgment">
+    <oll:cite xml:lang="en"> , </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2014 SMTCA 2|discussion|grant-of-summary-judgment|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2014/2#discussion/grant-of-summary-judgment</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-07-16/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2014/2#discussion/jurisdiction">
+    <oll:cite xml:lang="en"> , </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2014 SMTCA 2|discussion|jurisdiction|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2014/2#discussion/jurisdiction</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-07-16/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2014/2#discussion/statute-of-limitations">
+    <oll:cite xml:lang="en"> , </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2014 SMTCA 2|discussion|statute-of-limitations|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2014/2#discussion/statute-of-limitations</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-07-16/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2014/2#introduction">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2014 SMTCA 2|introduction|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2014/2#introduction</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-07-16/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2014/2#statement-of-the-case">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2014 SMTCA 2|statement-of-the-case|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2014/2#statement-of-the-case</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-07-16/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2014/2/_changes">
+    <rdf:_1 rdf:resource="https://law.mohican.com/_publication/2025-07-16/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2014/2"/>
+    <rdf:_2 rdf:resource="https://law.mohican.com/_publication/2025-07-16/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2014/2#conclusion"/>
+    <rdf:_3 rdf:resource="https://law.mohican.com/_publication/2025-07-16/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2014/2#discussion"/>
+    <rdf:_4 rdf:resource="https://law.mohican.com/_publication/2025-07-16/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2014/2#discussion/due-process"/>
+    <rdf:_5 rdf:resource="https://law.mohican.com/_publication/2025-07-16/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2014/2#discussion/grant-of-summary-judgment"/>
+    <rdf:_6 rdf:resource="https://law.mohican.com/_publication/2025-07-16/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2014/2#discussion/jurisdiction"/>
+    <rdf:_7 rdf:resource="https://law.mohican.com/_publication/2025-07-16/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2014/2#discussion/statute-of-limitations"/>
+    <rdf:_8 rdf:resource="https://law.mohican.com/_publication/2025-07-16/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2014/2#introduction"/>
+    <rdf:_9 rdf:resource="https://law.mohican.com/_publication/2025-07-16/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2014/2#statement-of-the-case"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
