@@ -1,0 +1,33 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-07-16/_date/2022-10-24/us/nsn/mohican/courts/appeals/opinions/2022/2">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-07-16</dcterms:available>
+    <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/courts/appeals/opinions/2022/2/us/nsn/mohican/courts/appeals/opinions/2022/2022%20SMTCA%202.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2025-07-16/us/nsn/mohican/courts/appeals/opinions/2022/2"/>
+    <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/courts/appeals/opinions/2022/2/us/nsn/mohican/courts/appeals/opinions/2022/2022-AP-0001.pdf"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+STANDARD OF REVIEW
+RELEVANT FACTS
+ANALYSIS
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">2022 SMTCA 2 Joshua Owen Curry vs. Stockbridge-Munsee Community, et al.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2025-07-16/2022-10-24]: 2022 SMTCA 2</rdfs:label>
+    <oll:buildReason xml:lang="en">effective</oll:buildReason>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2022-10-24</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-10-24</oll:dateEffective>
+    <oll:docId>2022 SMTCA 2</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">2022 SMTCA 2|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.mohican.com/_publication/2025-07-16/_date/2022-10-24/us/nsn/mohican/courts/appeals/opinions/2022/2/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2025-07-16"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2022/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-07-16/_date/2022-10-24/us/nsn/mohican/courts/appeals/opinions/2022/2/_changes">
+    <rdf:_1 rdf:resource="https://law.mohican.com/_publication/2025-07-16/_date/2022-10-24/us/nsn/mohican/courts/appeals/opinions/2022/2"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
