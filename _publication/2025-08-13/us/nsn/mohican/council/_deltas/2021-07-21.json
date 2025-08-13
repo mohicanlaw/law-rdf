@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "doc": "2021 SMTCA 1",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/mohican/courts/appeals/opinions/2021/1",
+      "doc_mpath": "2021 SMTCA 1|",
+      "lib_mpath": "mohicanlaw/law-rdf|us/nsn/mohican/courts/appeals/opinions|2021|",
+      "reason": null
+    },
+    {
+      "doc": "2021 SMTCA 2",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/mohican/courts/appeals/opinions/2021/2",
+      "doc_mpath": "2021 SMTCA 2|",
+      "lib_mpath": "mohicanlaw/law-rdf|us/nsn/mohican/courts/appeals/opinions|2021|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-08-13",
+  "codified_date": "2021-07-21",
+  "reasons": {
+    "2021 SMTCA 1": [
+      "effective"
+    ],
+    "2021 SMTCA 2": [
+      "effective"
+    ]
+  }
+}
