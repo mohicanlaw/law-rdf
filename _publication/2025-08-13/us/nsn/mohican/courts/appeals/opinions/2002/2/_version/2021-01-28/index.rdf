@@ -1,0 +1,75 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-08-13/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2002/2">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-08-13</dcterms:available>
+    <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/courts/appeals/opinions/2002/2/us/nsn/mohican/courts/appeals/opinions/2002/2002%20SMTCA%202.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2025-08-13/us/nsn/mohican/courts/appeals/opinions/2002/2"/>
+    <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/courts/appeals/opinions/2002/2/us/nsn/mohican/courts/appeals/opinions/2002/01-AA-001.pdf"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Jurisdictional Statement
+Background
+Issues
+Analysis
+DECISION
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">2002 SMTCA 2 Lillian Wheelock vs. Stockbridge-Munsee Community</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2025-08-13/2021-01-28]: 2002 SMTCA 2</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2021-01-28</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2002-08-23</oll:dateEffective>
+    <oll:docId>2002 SMTCA 2</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">2002 SMTCA 2|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.mohican.com/_publication/2025-08-13/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2002/2/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2025-08-13"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2002/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-08-13/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2002/2#analysis">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2002 SMTCA 2|analysis|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2002/2#analysis</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-08-13/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2002/2#background">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2002 SMTCA 2|background|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2002/2#background</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-08-13/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2002/2#decision">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2002 SMTCA 2|decision|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2002/2#decision</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-08-13/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2002/2#issues">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2002 SMTCA 2|issues|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2002/2#issues</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-08-13/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2002/2#jurisdictional-statement">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2002 SMTCA 2|jurisdictional-statement|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2002/2#jurisdictional-statement</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-08-13/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2002/2/_changes">
+    <rdf:_1 rdf:resource="https://law.mohican.com/_publication/2025-08-13/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2002/2"/>
+    <rdf:_2 rdf:resource="https://law.mohican.com/_publication/2025-08-13/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2002/2#analysis"/>
+    <rdf:_3 rdf:resource="https://law.mohican.com/_publication/2025-08-13/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2002/2#background"/>
+    <rdf:_4 rdf:resource="https://law.mohican.com/_publication/2025-08-13/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2002/2#decision"/>
+    <rdf:_5 rdf:resource="https://law.mohican.com/_publication/2025-08-13/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2002/2#issues"/>
+    <rdf:_6 rdf:resource="https://law.mohican.com/_publication/2025-08-13/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2002/2#jurisdictional-statement"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

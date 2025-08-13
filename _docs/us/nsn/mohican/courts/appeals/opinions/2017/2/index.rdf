@@ -1,6 +1,6 @@
 <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
   <rdf:Description rdf:about="https://law.mohican.com/us/nsn/mohican/courts/appeals/opinions/2017/2/us/nsn/mohican/courts/appeals/opinions/2017/16-AP-2016-RO-0007-01.pdf">
-    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-07-16</dcterms:available>
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-08-13</dcterms:available>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">Case No. 16-AP-2016-RO-0007-01</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#SourceDocument"/>
@@ -8,7 +8,7 @@
     <oll:url rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://law.mohican.com/us/nsn/mohican/courts/appeals/opinions/2017/16-AP-2016-RO-0007-01.pdf</oll:url>
   </rdf:Description>
   <rdf:Description rdf:about="https://law.mohican.com/us/nsn/mohican/courts/appeals/opinions/2017/2/us/nsn/mohican/courts/appeals/opinions/2017/2017%20SMTCA%202.pdf">
-    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-07-16</dcterms:available>
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-08-13</dcterms:available>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
     <dcterms:title xml:lang="en">2017 SMTCA 2</dcterms:title>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#SourceDocument"/>

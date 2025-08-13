@@ -1,0 +1,73 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-08-13/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2016/4">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-08-13</dcterms:available>
+    <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/courts/appeals/opinions/2016/4/us/nsn/mohican/courts/appeals/opinions/2016/2016%20SMTCA%204.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2025-08-13/us/nsn/mohican/courts/appeals/opinions/2016/4"/>
+    <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/courts/appeals/opinions/2016/4/us/nsn/mohican/courts/appeals/opinions/2016/2016-AP-2016-AA-0001.pdf"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+PROCEDURAL BACKGROUND
+STANDARD OF REVIEW
+CONCLUSION
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">2016 SMTCA 4 Wayne B. Ahlers vs. Stockbridge Munsee Community (November 9, 2016)</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2025-08-13/2021-01-28]: 2016 SMTCA 4</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2021-01-28</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2016-11-09</oll:dateEffective>
+    <oll:docId>2016 SMTCA 4</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">2016 SMTCA 4|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.mohican.com/_publication/2025-08-13/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2016/4/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2025-08-13"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2016/4</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-08-13/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2016/4#conclusion">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2016 SMTCA 4|conclusion|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2016/4#conclusion</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-08-13/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2016/4#procedural-background">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2016 SMTCA 4|procedural-background|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2016/4#procedural-background</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-08-13/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2016/4#standard-of-review">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2016 SMTCA 4|standard-of-review|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2016/4#standard-of-review</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-08-13/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2016/4#standard-of-review/denial-of-trial-on-the-merits-of-the-case">
+    <oll:cite xml:lang="en"> , </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2016 SMTCA 4|standard-of-review|denial-of-trial-on-the-merits-of-the-case|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2016/4#standard-of-review/denial-of-trial-on-the-merits-of-the-case</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-08-13/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2016/4#standard-of-review/timelines-taken-by-the-courts">
+    <oll:cite xml:lang="en"> , </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2016 SMTCA 4|standard-of-review|timelines-taken-by-the-courts|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2016/4#standard-of-review/timelines-taken-by-the-courts</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-08-13/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2016/4/_changes">
+    <rdf:_1 rdf:resource="https://law.mohican.com/_publication/2025-08-13/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2016/4"/>
+    <rdf:_2 rdf:resource="https://law.mohican.com/_publication/2025-08-13/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2016/4#conclusion"/>
+    <rdf:_3 rdf:resource="https://law.mohican.com/_publication/2025-08-13/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2016/4#procedural-background"/>
+    <rdf:_4 rdf:resource="https://law.mohican.com/_publication/2025-08-13/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2016/4#standard-of-review"/>
+    <rdf:_5 rdf:resource="https://law.mohican.com/_publication/2025-08-13/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2016/4#standard-of-review/denial-of-trial-on-the-merits-of-the-case"/>
+    <rdf:_6 rdf:resource="https://law.mohican.com/_publication/2025-08-13/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2016/4#standard-of-review/timelines-taken-by-the-courts"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
