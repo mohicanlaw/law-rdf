@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "doc": "2022 SMTCA 2",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/mohican/courts/appeals/opinions/2022/2",
+      "doc_mpath": "2022 SMTCA 2|",
+      "lib_mpath": "mohicanlaw/law-rdf|us/nsn/mohican/courts/appeals/opinions|2022|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-10-10",
+  "codified_date": "2022-10-24",
+  "reasons": {
+    "2022 SMTCA 2": [
+      "effective"
+    ]
+  }
+}
