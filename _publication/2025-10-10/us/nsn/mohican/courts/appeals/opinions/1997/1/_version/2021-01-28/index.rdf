@@ -1,0 +1,75 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-10-10/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/1997/1">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-10</dcterms:available>
+    <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/courts/appeals/opinions/1997/1/us/nsn/mohican/courts/appeals/opinions/1997/1997%20SMTCA%201.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2025-10-10/us/nsn/mohican/courts/appeals/opinions/1997/1"/>
+    <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/courts/appeals/opinions/1997/1/us/nsn/mohican/courts/appeals/opinions/1997/97-AA-003.pdf"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Jurisdictional Statement
+Facts
+Scope of Review
+Issues
+Decision
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">1997 SMTCA 1 Stockbridge-Munsee Community vs. Phyllis Vlasak</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2025-10-10/2021-01-28]: 1997 SMTCA 1</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2021-01-28</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">1997-08-20</oll:dateEffective>
+    <oll:docId>1997 SMTCA 1</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">1997 SMTCA 1|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.mohican.com/_publication/2025-10-10/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/1997/1/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2025-10-10"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/1997/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-10-10/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/1997/1#decision">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">1997 SMTCA 1|decision|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/1997/1#decision</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-10-10/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/1997/1#facts">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">1997 SMTCA 1|facts|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/1997/1#facts</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-10-10/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/1997/1#issues">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">1997 SMTCA 1|issues|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/1997/1#issues</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-10-10/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/1997/1#jurisdictional-statement">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">1997 SMTCA 1|jurisdictional-statement|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/1997/1#jurisdictional-statement</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-10-10/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/1997/1#scope-of-review">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">1997 SMTCA 1|scope-of-review|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/1997/1#scope-of-review</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-10-10/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/1997/1/_changes">
+    <rdf:_1 rdf:resource="https://law.mohican.com/_publication/2025-10-10/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/1997/1"/>
+    <rdf:_2 rdf:resource="https://law.mohican.com/_publication/2025-10-10/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/1997/1#decision"/>
+    <rdf:_3 rdf:resource="https://law.mohican.com/_publication/2025-10-10/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/1997/1#facts"/>
+    <rdf:_4 rdf:resource="https://law.mohican.com/_publication/2025-10-10/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/1997/1#issues"/>
+    <rdf:_5 rdf:resource="https://law.mohican.com/_publication/2025-10-10/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/1997/1#jurisdictional-statement"/>
+    <rdf:_6 rdf:resource="https://law.mohican.com/_publication/2025-10-10/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/1997/1#scope-of-review"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
