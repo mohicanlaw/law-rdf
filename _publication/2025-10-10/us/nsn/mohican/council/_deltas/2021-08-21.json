@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "doc": "2021 SMTCA 4",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/mohican/courts/appeals/opinions/2021/4",
+      "doc_mpath": "2021 SMTCA 4|",
+      "lib_mpath": "mohicanlaw/law-rdf|us/nsn/mohican/courts/appeals/opinions|2021|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-10-10",
+  "codified_date": "2021-08-21",
+  "reasons": {
+    "2021 SMTCA 4": [
+      "effective"
+    ]
+  }
+}
