@@ -1,0 +1,84 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2015/1">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-12-09</dcterms:available>
+    <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/courts/appeals/opinions/2015/1/us/nsn/mohican/courts/appeals/opinions/2015/2015%20SMTCA%201.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2025-12-09/us/nsn/mohican/courts/appeals/opinions/2015/1"/>
+    <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/courts/appeals/opinions/2015/1/us/nsn/mohican/courts/appeals/opinions/2015/IAP15-2014-AA-0004.pdf"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+INTRODUCTION
+JURISDICTION
+HISTORICAL BACKGROUND
+STANDARD OF REVIEW
+ANALYSIS
+CONCLUSION
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">2015 SMTCA 1 Rose Nunez vs. Stockbridge-Munsee Community and Stockbridge-Munsee Health and Wellness Center</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2025-12-09/2021-01-28]: 2015 SMTCA 1</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2021-01-28</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2015-06-29</oll:dateEffective>
+    <oll:docId>2015 SMTCA 1</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">2015 SMTCA 1|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2015/1/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2025-12-09"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2015/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2015/1#analysis">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2015 SMTCA 1|analysis|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2015/1#analysis</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2015/1#conclusion">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2015 SMTCA 1|conclusion|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2015/1#conclusion</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2015/1#historical-background">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2015 SMTCA 1|historical-background|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2015/1#historical-background</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2015/1#introduction">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2015 SMTCA 1|introduction|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2015/1#introduction</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2015/1#jurisdiction">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2015 SMTCA 1|jurisdiction|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2015/1#jurisdiction</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2015/1#standard-of-review">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2015 SMTCA 1|standard-of-review|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2015/1#standard-of-review</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2015/1/_changes">
+    <rdf:_1 rdf:resource="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2015/1"/>
+    <rdf:_2 rdf:resource="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2015/1#analysis"/>
+    <rdf:_3 rdf:resource="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2015/1#conclusion"/>
+    <rdf:_4 rdf:resource="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2015/1#historical-background"/>
+    <rdf:_5 rdf:resource="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2015/1#introduction"/>
+    <rdf:_6 rdf:resource="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2015/1#jurisdiction"/>
+    <rdf:_7 rdf:resource="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2015/1#standard-of-review"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>

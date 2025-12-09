@@ -1,0 +1,84 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2011/2">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-12-09</dcterms:available>
+    <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/courts/appeals/opinions/2011/2/us/nsn/mohican/courts/appeals/opinions/2011/2011%20SMTCA%202.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2025-12-09/us/nsn/mohican/courts/appeals/opinions/2011/2"/>
+    <dcterms:references rdf:resource="https://law.mohican.com/us/nsn/mohican/courts/appeals/opinions/2011/2/us/nsn/mohican/courts/appeals/opinions/2011/AP-2010-RO-0008.pdf"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+Background
+Judges Empanelled to Court of Appeals
+Court of Appeals Panel Jurisdiction
+Issue Presented by Appellant
+Analysis
+Decision
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">2011 SMTCA 2 Lynne I. Miller vs. Hon. Robert Miller</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2025-12-09/2021-01-28]: 2011 SMTCA 2</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2021-01-28</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2011-05-13</oll:dateEffective>
+    <oll:docId>2011 SMTCA 2</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">2011 SMTCA 2|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2011/2/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2025-12-09"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2011/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2011/2#analysis">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2011 SMTCA 2|analysis|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2011/2#analysis</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2011/2#background">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2011 SMTCA 2|background|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2011/2#background</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2011/2#court-of-appeals-panel-jurisdiction">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2011 SMTCA 2|court-of-appeals-panel-jurisdiction|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2011/2#court-of-appeals-panel-jurisdiction</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2011/2#decision">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2011 SMTCA 2|decision|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2011/2#decision</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2011/2#issue-presented-by-appellant">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2011 SMTCA 2|issue-presented-by-appellant|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2011/2#issue-presented-by-appellant</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2011/2#judges-empanelled-to-court-of-appeals">
+    <oll:cite xml:lang="en"> </oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2011 SMTCA 2|judges-empanelled-to-court-of-appeals|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2011/2#judges-empanelled-to-court-of-appeals</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2011/2/_changes">
+    <rdf:_1 rdf:resource="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2011/2"/>
+    <rdf:_2 rdf:resource="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2011/2#analysis"/>
+    <rdf:_3 rdf:resource="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2011/2#background"/>
+    <rdf:_4 rdf:resource="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2011/2#court-of-appeals-panel-jurisdiction"/>
+    <rdf:_5 rdf:resource="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2011/2#decision"/>
+    <rdf:_6 rdf:resource="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2011/2#issue-presented-by-appellant"/>
+    <rdf:_7 rdf:resource="https://law.mohican.com/_publication/2025-12-09/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2011/2#judges-empanelled-to-court-of-appeals"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
