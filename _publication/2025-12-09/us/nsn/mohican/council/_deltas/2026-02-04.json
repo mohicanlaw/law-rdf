@@ -1,0 +1,50 @@
+{
+  "data": [
+    {
+      "doc": "Stockbridge-Munsee Tribal Code",
+      "path": "|ENV.02",
+      "ptag": "container",
+      "cite": "Chapter ENV.02",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/mohican/council/code/ENV.02",
+      "doc_mpath": "Stockbridge-Munsee Tribal Code|ENV|ENV.02|",
+      "lib_mpath": "mohicanlaw/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Stockbridge-Munsee Tribal Code",
+      "path": "|ENV.02.10",
+      "ptag": "section",
+      "cite": "Section ENV.02.10",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/mohican/council/code/ENV.02.10",
+      "doc_mpath": "Stockbridge-Munsee Tribal Code|ENV|ENV.02|ENV.02.10|",
+      "lib_mpath": "mohicanlaw/law-rdf|",
+      "reason": null
+    },
+    {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 016-26",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element effective"
+      ],
+      "url": "/us/nsn/mohican/council/resolutions/2026/016-26",
+      "doc_mpath": "Stockbridge-Munsee Tribal Council Res. No. 016-26|",
+      "lib_mpath": "mohicanlaw/law-rdf|us/nsn/mohican/council/resolutions|2026|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2025-12-09",
+  "codified_date": "2026-02-04",
+  "reasons": {
+    "Stockbridge-Munsee Tribal Council Res. No. 016-26": [
+      "effective"
+    ]
+  }
+}
