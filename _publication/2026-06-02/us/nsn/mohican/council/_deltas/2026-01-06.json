@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "statuses": [
+        "Element changed"
+      ],
+      "name": "2026",
+      "url": "/us/nsn/mohican/council/resolutions/2026",
+      "lib_mpath": "mohicanlaw/law-rdf|us/nsn/mohican/council/resolutions|2026|",
+      "docs_changes": {
+        "Stockbridge-Munsee Tribal Council Res. No. 016-26": "Element added"
+      },
+      "colls_changes": {},
+      "ptag": "collection"
+    },
+    {
+      "doc": "Stockbridge-Munsee Tribal Council Res. No. 016-26",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "statuses": [
+        "Element added"
+      ],
+      "url": "/us/nsn/mohican/council/resolutions/2026/016-26",
+      "doc_mpath": "Stockbridge-Munsee Tribal Council Res. No. 016-26|",
+      "lib_mpath": "mohicanlaw/law-rdf|us/nsn/mohican/council/resolutions|2026|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-06-02",
+  "codified_date": "2026-01-06",
+  "reasons": {
+    "Stockbridge-Munsee Tribal Council Res. No. 016-26": [
+      "created"
+    ]
+  }
+}
