@@ -1,0 +1,55 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2026-06-03/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2025/1">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-03</dcterms:available>
+    <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/courts/appeals/opinions/2025/1/us/nsn/mohican/courts/appeals/opinions/2025/2025-AA-0001.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2026-06-03/us/nsn/mohican/courts/appeals/opinions/2025/1"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+I. INTRODUCTION
+II. FACTS AND PROCEDURAL HISTORY
+III. Appealability of Judicial Discipline Decisions
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">2025 SMTCA 1 Sterling Schreiber, II vs. Joseph Miler, Chairman And Stockbridge-Munsee Judiciary Commission</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2026-06-03/2021-01-28]: 2025 SMTCA 1</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2021-01-28</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-12-18</oll:dateEffective>
+    <oll:docId>2025 SMTCA 1</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">2025 SMTCA 1|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.mohican.com/_publication/2026-06-03/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2025/1/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2026-06-03"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2025/1</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2026-06-03/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2025/1#appealability-of-judicial-discipline-decisions">
+    <oll:cite xml:lang="en"> III.</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2025 SMTCA 1|appealability-of-judicial-discipline-decisions|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2025/1#appealability-of-judicial-discipline-decisions</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2026-06-03/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2025/1#facts-and-procedural-history">
+    <oll:cite xml:lang="en"> II.</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2025 SMTCA 1|facts-and-procedural-history|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2025/1#facts-and-procedural-history</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2026-06-03/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2025/1#introduction">
+    <oll:cite xml:lang="en"> I.</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2025 SMTCA 1|introduction|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2025/1#introduction</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2026-06-03/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2025/1/_changes">
+    <rdf:_1 rdf:resource="https://law.mohican.com/_publication/2026-06-03/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2025/1"/>
+    <rdf:_2 rdf:resource="https://law.mohican.com/_publication/2026-06-03/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2025/1#appealability-of-judicial-discipline-decisions"/>
+    <rdf:_3 rdf:resource="https://law.mohican.com/_publication/2026-06-03/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2025/1#facts-and-procedural-history"/>
+    <rdf:_4 rdf:resource="https://law.mohican.com/_publication/2026-06-03/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2025/1#introduction"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
