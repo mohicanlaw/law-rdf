@@ -1,0 +1,86 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2026-09-25/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2013/3">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-09-25</dcterms:available>
+    <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/courts/appeals/opinions/2013/3/us/nsn/mohican/courts/appeals/opinions/2013/AP-2008-AA-0003.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2026-09-25/us/nsn/mohican/courts/appeals/opinions/2013/3"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+DECISION AND ORDER(REVERSAL OF TRIAL COURT'S ORDER CLARIFYING ISSUE OF PAID TIME OFF)
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">2013 SMTCA 3 Kylee Dodge vs. Stockbridge-Munsee Community</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2026-09-25/2021-01-28]: 2013 SMTCA 3</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2021-01-28</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2013-05-14</oll:dateEffective>
+    <oll:docId>2013 SMTCA 3</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">2013 SMTCA 3|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.mohican.com/_publication/2026-09-25/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2013/3/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2026-09-25"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2013/3</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2026-09-25/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2013/3#decision-and-order-(reversal-of-trial-courts-order-clarifying-issue-of-paid-time-off)">
+    <oll:cite xml:lang="en">DECISION AND ORDER(REVERSAL OF TRIAL COURT'S ORDER CLARIFYING ISSUE OF PAID TIME OFF)</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2013 SMTCA 3|decision-and-order-(reversal-of-trial-courts-order-clarifying-issue-of-paid-time-off)|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2013/3#decision-and-order-(reversal-of-trial-courts-order-clarifying-issue-of-paid-time-off)</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2026-09-25/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2013/3#decision-and-order-(reversal-of-trial-courts-order-clarifying-issue-of-paid-time-off)/analysis">
+    <oll:cite xml:lang="en">DECISION AND ORDER(REVERSAL OF TRIAL COURT'S ORDER CLARIFYING ISSUE OF PAID TIME OFF), ANALYSIS</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2013 SMTCA 3|decision-and-order-(reversal-of-trial-courts-order-clarifying-issue-of-paid-time-off)|analysis|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2013/3#decision-and-order-(reversal-of-trial-courts-order-clarifying-issue-of-paid-time-off)/analysis</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2026-09-25/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2013/3#decision-and-order-(reversal-of-trial-courts-order-clarifying-issue-of-paid-time-off)/background">
+    <oll:cite xml:lang="en">DECISION AND ORDER(REVERSAL OF TRIAL COURT'S ORDER CLARIFYING ISSUE OF PAID TIME OFF), BACKGROUND</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2013 SMTCA 3|decision-and-order-(reversal-of-trial-courts-order-clarifying-issue-of-paid-time-off)|background|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2013/3#decision-and-order-(reversal-of-trial-courts-order-clarifying-issue-of-paid-time-off)/background</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2026-09-25/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2013/3#decision-and-order-(reversal-of-trial-courts-order-clarifying-issue-of-paid-time-off)/conclusion">
+    <oll:cite xml:lang="en">DECISION AND ORDER(REVERSAL OF TRIAL COURT'S ORDER CLARIFYING ISSUE OF PAID TIME OFF), CONCLUSION</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2013 SMTCA 3|decision-and-order-(reversal-of-trial-courts-order-clarifying-issue-of-paid-time-off)|conclusion|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2013/3#decision-and-order-(reversal-of-trial-courts-order-clarifying-issue-of-paid-time-off)/conclusion</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2026-09-25/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2013/3#decision-and-order-(reversal-of-trial-courts-order-clarifying-issue-of-paid-time-off)/jurisdiction">
+    <oll:cite xml:lang="en">DECISION AND ORDER(REVERSAL OF TRIAL COURT'S ORDER CLARIFYING ISSUE OF PAID TIME OFF), JURISDICTION</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2013 SMTCA 3|decision-and-order-(reversal-of-trial-courts-order-clarifying-issue-of-paid-time-off)|jurisdiction|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2013/3#decision-and-order-(reversal-of-trial-courts-order-clarifying-issue-of-paid-time-off)/jurisdiction</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2026-09-25/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2013/3#decision-and-order-(reversal-of-trial-courts-order-clarifying-issue-of-paid-time-off)/order">
+    <oll:cite xml:lang="en">DECISION AND ORDER(REVERSAL OF TRIAL COURT'S ORDER CLARIFYING ISSUE OF PAID TIME OFF), ORDER</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2013 SMTCA 3|decision-and-order-(reversal-of-trial-courts-order-clarifying-issue-of-paid-time-off)|order|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2013/3#decision-and-order-(reversal-of-trial-courts-order-clarifying-issue-of-paid-time-off)/order</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2026-09-25/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2013/3#decision-and-order-(reversal-of-trial-courts-order-clarifying-issue-of-paid-time-off)/question-presented">
+    <oll:cite xml:lang="en">DECISION AND ORDER(REVERSAL OF TRIAL COURT'S ORDER CLARIFYING ISSUE OF PAID TIME OFF), QUESTION PRESENTED</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2013 SMTCA 3|decision-and-order-(reversal-of-trial-courts-order-clarifying-issue-of-paid-time-off)|question-presented|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2013/3#decision-and-order-(reversal-of-trial-courts-order-clarifying-issue-of-paid-time-off)/question-presented</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2026-09-25/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2013/3/_changes">
+    <rdf:_1 rdf:resource="https://law.mohican.com/_publication/2026-09-25/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2013/3"/>
+    <rdf:_2 rdf:resource="https://law.mohican.com/_publication/2026-09-25/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2013/3#decision-and-order-(reversal-of-trial-courts-order-clarifying-issue-of-paid-time-off)"/>
+    <rdf:_3 rdf:resource="https://law.mohican.com/_publication/2026-09-25/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2013/3#decision-and-order-(reversal-of-trial-courts-order-clarifying-issue-of-paid-time-off)/analysis"/>
+    <rdf:_4 rdf:resource="https://law.mohican.com/_publication/2026-09-25/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2013/3#decision-and-order-(reversal-of-trial-courts-order-clarifying-issue-of-paid-time-off)/background"/>
+    <rdf:_5 rdf:resource="https://law.mohican.com/_publication/2026-09-25/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2013/3#decision-and-order-(reversal-of-trial-courts-order-clarifying-issue-of-paid-time-off)/conclusion"/>
+    <rdf:_6 rdf:resource="https://law.mohican.com/_publication/2026-09-25/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2013/3#decision-and-order-(reversal-of-trial-courts-order-clarifying-issue-of-paid-time-off)/jurisdiction"/>
+    <rdf:_7 rdf:resource="https://law.mohican.com/_publication/2026-09-25/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2013/3#decision-and-order-(reversal-of-trial-courts-order-clarifying-issue-of-paid-time-off)/order"/>
+    <rdf:_8 rdf:resource="https://law.mohican.com/_publication/2026-09-25/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2013/3#decision-and-order-(reversal-of-trial-courts-order-clarifying-issue-of-paid-time-off)/question-presented"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
