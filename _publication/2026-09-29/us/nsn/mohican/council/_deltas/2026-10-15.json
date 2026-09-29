@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "doc": "Stockbridge-Munsee Tribal Code",
+      "path": "|ENV.01.12",
+      "ptag": "section",
+      "cite": "Section ENV.01.12",
+      "statuses": [
+        "Element changed"
+      ],
+      "url": "/us/nsn/mohican/council/code/ENV.01.12",
+      "doc_mpath": "Stockbridge-Munsee Tribal Code|ENV|ENV.01|ENV.01.12|",
+      "lib_mpath": "mohicanlaw/law-rdf|",
+      "reason": null
+    }
+  ],
+  "publication_name": "publication/2026-09-29",
+  "codified_date": "2026-10-15",
+  "reasons": {
+    "Stockbridge-Munsee Tribal Council Res. No. 054-26": [
+      "applicable"
+    ]
+  }
+}
