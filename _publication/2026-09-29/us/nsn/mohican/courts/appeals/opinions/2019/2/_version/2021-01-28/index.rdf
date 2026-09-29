@@ -1,0 +1,126 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:oll="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2026-09-29/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2019/2">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-09-29</dcterms:available>
+    <dcterms:creator xml:lang="en">Stockbridge-Munsee Community, Band of Mohican Indians</dcterms:creator>
+    <dcterms:hasFormat rdf:resource="https://law.mohican.com/us/nsn/mohican/courts/appeals/opinions/2019/2/us/nsn/mohican/courts/appeals/opinions/2019/2018-AP-0003.pdf"/>
+    <dcterms:isVersionOf rdf:resource="https://law.mohican.com/_publication/2026-09-29/us/nsn/mohican/courts/appeals/opinions/2019/2"/>
+    <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
+    <dcterms:tableOfContents>
+OPINION
+</dcterms:tableOfContents>
+    <dcterms:title xml:lang="en">2019 SMTCA 2 Adam Hoffman, et al. vs. Stockbridge-Munsee Human Resources Department, et al.</dcterms:title>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
+    <rdfs:label xml:lang="en">[2026-09-29/2021-01-28]: 2019 SMTCA 2</rdfs:label>
+    <oll:cite xml:lang="en"/>
+    <oll:codifiedDate>2021-01-28</oll:codifiedDate>
+    <oll:dateEffective rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2019-04-03</oll:dateEffective>
+    <oll:docId>2019 SMTCA 2</oll:docId>
+    <oll:documentMaterializedPath xml:lang="en">2019 SMTCA 2|</oll:documentMaterializedPath>
+    <oll:hasChanges rdf:resource="https://law.mohican.com/_publication/2026-09-29/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2019/2/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.mohican.com/_publication/2026-09-29"/>
+    <oll:ptag xml:lang="en">document</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:status xml:lang="en">Element effective</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2019/2</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2026-09-29/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion">
+    <oll:cite xml:lang="en">OPINION</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2019 SMTCA 2|opinion|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2026-09-29/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/conclusion">
+    <oll:cite xml:lang="en">OPINION, VI.</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2019 SMTCA 2|opinion|conclusion|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/conclusion</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2026-09-29/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/facts-on-appeal">
+    <oll:cite xml:lang="en">OPINION, II.</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2019 SMTCA 2|opinion|facts-on-appeal|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/facts-on-appeal</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2026-09-29/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/issues-on-appeal">
+    <oll:cite xml:lang="en">OPINION, IV.</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2019 SMTCA 2|opinion|issues-on-appeal|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/issues-on-appeal</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2026-09-29/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/order">
+    <oll:cite xml:lang="en">OPINION, VII.</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2019 SMTCA 2|opinion|order|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/order</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2026-09-29/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/standard-of-review">
+    <oll:cite xml:lang="en">OPINION, III.</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2019 SMTCA 2|opinion|standard-of-review|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/standard-of-review</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2026-09-29/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/summary">
+    <oll:cite xml:lang="en">OPINION, I.</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2019 SMTCA 2|opinion|summary|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/summary</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2026-09-29/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/the-community-possesses-sovereign-immunity-which-can-be-waived-only-by-the-community-or-the-united-states">
+    <oll:cite xml:lang="en">OPINION, V.</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2019 SMTCA 2|opinion|the-community-possesses-sovereign-immunity-which-can-be-waived-only-by-the-community-or-the-united-states|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/the-community-possesses-sovereign-immunity-which-can-be-waived-only-by-the-community-or-the-united-states</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2026-09-29/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/the-community-possesses-sovereign-immunity-which-can-be-waived-only-by-the-community-or-the-united-states/appellants-claims-for-relief-are-limited-to-back-pay-reinstatement-or-a-narrowly-tailored-non-monetary-remedy">
+    <oll:cite xml:lang="en">OPINION, V., D.</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2019 SMTCA 2|opinion|the-community-possesses-sovereign-immunity-which-can-be-waived-only-by-the-community-or-the-united-states|appellants-claims-for-relief-are-limited-to-back-pay-reinstatement-or-a-narrowly-tailored-non-monetary-remedy|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/the-community-possesses-sovereign-immunity-which-can-be-waived-only-by-the-community-or-the-united-states/appellants-claims-for-relief-are-limited-to-back-pay-reinstatement-or-a-narrowly-tailored-non-monetary-remedy</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2026-09-29/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/the-community-possesses-sovereign-immunity-which-can-be-waived-only-by-the-community-or-the-united-states/for-the-purposes-of-employment-disputes-a-valid-limited-waiver-of-sovereign-immunity-was-enacted-by-the-community">
+    <oll:cite xml:lang="en">OPINION, V., B.</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2019 SMTCA 2|opinion|the-community-possesses-sovereign-immunity-which-can-be-waived-only-by-the-community-or-the-united-states|for-the-purposes-of-employment-disputes-a-valid-limited-waiver-of-sovereign-immunity-was-enacted-by-the-community|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/the-community-possesses-sovereign-immunity-which-can-be-waived-only-by-the-community-or-the-united-states/for-the-purposes-of-employment-disputes-a-valid-limited-waiver-of-sovereign-immunity-was-enacted-by-the-community</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2026-09-29/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/the-community-possesses-sovereign-immunity-which-can-be-waived-only-by-the-community-or-the-united-states/section-293-of-the-communitys-court-code-contains-a-clear-statement-of-the-communitys-immunity-and-circumstances-by-which-a-waiver-is-effective">
+    <oll:cite xml:lang="en">OPINION, V., A.</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2019 SMTCA 2|opinion|the-community-possesses-sovereign-immunity-which-can-be-waived-only-by-the-community-or-the-united-states|section-293-of-the-communitys-court-code-contains-a-clear-statement-of-the-communitys-immunity-and-circumstances-by-which-a-waiver-is-effective|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/the-community-possesses-sovereign-immunity-which-can-be-waived-only-by-the-community-or-the-united-states/section-293-of-the-communitys-court-code-contains-a-clear-statement-of-the-communitys-immunity-and-circumstances-by-which-a-waiver-is-effective</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2026-09-29/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/the-community-possesses-sovereign-immunity-which-can-be-waived-only-by-the-community-or-the-united-states/stockbridge-munsee-precedent-and-statutory-law-limit-appellants-monetary-remedies-to-back-pay-not-to-exceed-one-year">
+    <oll:cite xml:lang="en">OPINION, V., C.</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">2019 SMTCA 2|opinion|the-community-possesses-sovereign-immunity-which-can-be-waived-only-by-the-community-or-the-united-states|stockbridge-munsee-precedent-and-statutory-law-limit-appellants-monetary-remedies-to-back-pay-not-to-exceed-one-year|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/the-community-possesses-sovereign-immunity-which-can-be-waived-only-by-the-community-or-the-united-states/stockbridge-munsee-precedent-and-statutory-law-limit-appellants-monetary-remedies-to-back-pay-not-to-exceed-one-year</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.mohican.com/_publication/2026-09-29/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2019/2/_changes">
+    <rdf:_10 rdf:resource="https://law.mohican.com/_publication/2026-09-29/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/the-community-possesses-sovereign-immunity-which-can-be-waived-only-by-the-community-or-the-united-states/appellants-claims-for-relief-are-limited-to-back-pay-reinstatement-or-a-narrowly-tailored-non-monetary-remedy"/>
+    <rdf:_11 rdf:resource="https://law.mohican.com/_publication/2026-09-29/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/the-community-possesses-sovereign-immunity-which-can-be-waived-only-by-the-community-or-the-united-states/for-the-purposes-of-employment-disputes-a-valid-limited-waiver-of-sovereign-immunity-was-enacted-by-the-community"/>
+    <rdf:_12 rdf:resource="https://law.mohican.com/_publication/2026-09-29/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/the-community-possesses-sovereign-immunity-which-can-be-waived-only-by-the-community-or-the-united-states/section-293-of-the-communitys-court-code-contains-a-clear-statement-of-the-communitys-immunity-and-circumstances-by-which-a-waiver-is-effective"/>
+    <rdf:_13 rdf:resource="https://law.mohican.com/_publication/2026-09-29/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/the-community-possesses-sovereign-immunity-which-can-be-waived-only-by-the-community-or-the-united-states/stockbridge-munsee-precedent-and-statutory-law-limit-appellants-monetary-remedies-to-back-pay-not-to-exceed-one-year"/>
+    <rdf:_1 rdf:resource="https://law.mohican.com/_publication/2026-09-29/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2019/2"/>
+    <rdf:_2 rdf:resource="https://law.mohican.com/_publication/2026-09-29/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion"/>
+    <rdf:_3 rdf:resource="https://law.mohican.com/_publication/2026-09-29/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/conclusion"/>
+    <rdf:_4 rdf:resource="https://law.mohican.com/_publication/2026-09-29/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/facts-on-appeal"/>
+    <rdf:_5 rdf:resource="https://law.mohican.com/_publication/2026-09-29/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/issues-on-appeal"/>
+    <rdf:_6 rdf:resource="https://law.mohican.com/_publication/2026-09-29/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/order"/>
+    <rdf:_7 rdf:resource="https://law.mohican.com/_publication/2026-09-29/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/standard-of-review"/>
+    <rdf:_8 rdf:resource="https://law.mohican.com/_publication/2026-09-29/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/summary"/>
+    <rdf:_9 rdf:resource="https://law.mohican.com/_publication/2026-09-29/_date/2021-01-28/us/nsn/mohican/courts/appeals/opinions/2019/2#opinion/the-community-possesses-sovereign-immunity-which-can-be-waived-only-by-the-community-or-the-united-states"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
+</rdf:RDF>
